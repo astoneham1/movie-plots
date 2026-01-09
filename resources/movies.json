@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "plot": "A neurotic father traverses the ocean to find his son who touched a boat.",
+    "movie": "Finding Nemo",
+    "difficulty": "Easy",
+    "hint": "P. Sherman, 42 Wallaby Way, Sydney."
+  },
+  {
+    "id": 2,
+    "plot": "A billionaire spends his fortune beating up the mentally ill in costumes.",
+    "movie": "Batman",
+    "difficulty": "Medium",
+    "hint": "The main character's parents died in an alley."
+  },
+  {
+    "id": 3,
+    "plot": "A young boy commits brutal acts of violence against two elderly entrepreneurs.",
+    "movie": "Home Alone",
+    "difficulty": "Easy",
+    "hint": "KEVIN!"
+  },
+  {
+    "id": 4,
+    "plot": "A girl runs away from home because her sister wouldn't build a snowman.",
+    "movie": "Frozen",
+    "difficulty": "Easy",
+    "hint": "Let it go."
+  },
+  {
+    "id": 5,
+    "plot": "A single father tries to end world hunger with his rock collection.",
+    "movie": "Avengers: Infinity War",
+    "difficulty": "Easy",
+    "hint": "One snap changes everything."
+  },
+  {
+    "id": 6,
+    "plot": "A man takes drugs from a stranger and starts fighting people in sunglasses.",
+    "movie": "The Matrix",
+    "difficulty": "Medium",
+    "hint": "Red pill or blue pill?"
+  },
+  {
+    "id": 7,
+    "plot": "An elderly woman throws a rare jewel into the ocean after telling a story for three hours.",
+    "movie": "Titanic",
+    "difficulty": "Easy",
+    "hint": "There was definitely room on that door for Jack."
+  },
+  {
+    "id": 8,
+    "plot": "A health code violation teaches a ginger how to cook.",
+    "movie": "Ratatouille",
+    "difficulty": "Easy",
+    "hint": "Anyone can cook, even a rodent."
+  },
+  {
+    "id": 9,
+    "plot": "A farm boy radicalized by a wizard commits an act of terrorism on a government space station.",
+    "movie": "Star Wars: A New Hope",
+    "difficulty": "Medium",
+    "hint": "Use the Force, Luke."
+  },
+  {
+    "id": 10,
+    "plot": "A high school girl cheats on a corpse with a dog.",
+    "movie": "Twilight",
+    "difficulty": "Medium",
+    "hint": "Sparkly vampires."
+  },
+  {
+    "id": 11,
+    "plot": "A group of friends take a nap together.",
+    "movie": "Inception",
+    "difficulty": "Easy",
+    "hint": "A dream within a dream."
+  },
+  {
+    "id": 12,
+    "plot": "A young girl develops Stockholm Syndrome after being imprisoned by a furry.",
+    "movie": "Beauty and the Beast",
+    "difficulty": "Easy",
+    "hint": "Be our guest."
+  },
+  {
+    "id": 13,
+    "plot": "An old man abducts an Asian child and flees the country in a flying house.",
+    "movie": "Up",
+    "difficulty": "Easy",
+    "hint": "Squirrel!"
+  },
+  {
+    "id": 14,
+    "plot": "A trash compactor stalks a shiny new robot until she falls in love with him.",
+    "movie": "WALL-E",
+    "difficulty": "Easy",
+    "hint": "Eva?"
+  },
+  {
+    "id": 15,
+    "plot": "A girl cross-dresses to save her dad and kills the leader of the Huns.",
+    "movie": "Mulan",
+    "difficulty": "Easy",
+    "hint": "Let's get down to business."
+  },
+  {
+    "id": 16,
+    "plot": "A reality TV show where the grand prize is not dying.",
+    "movie": "The Hunger Games",
+    "difficulty": "Easy",
+    "hint": "I volunteer as tribute!"
+  },
+  {
+    "id": 17,
+    "plot": "A burger enthusiast and his friend try to return a briefcase.",
+    "movie": "Pulp Fiction",
+    "difficulty": "Medium",
+    "hint": "Royale with Cheese."
+  },
+  {
+    "id": 18,
+    "plot": "A dad goes on a European vacation to pick up his daughter.",
+    "movie": "Taken",
+    "difficulty": "Easy",
+    "hint": "I have a very particular set of skills."
+  },
+  {
+    "id": 19,
+    "plot": "A woman seeks career advice from a man who eats people.",
+    "movie": "The Silence of the Lambs",
+    "difficulty": "Easy",
+    "hint": "Fava beans and a nice Chianti."
+  },
+  {
+    "id": 20,
+    "plot": "An undocumented immigrant is harbored by a child and evades federal agents.",
+    "movie": "E.T. the Extra-Terrestrial",
+    "difficulty": "Medium",
+    "hint": "Phone home."
+  },
+  {
+    "id": 21,
+    "plot": "A corporate drone creates a terrorist cell with his imaginary friend.",
+    "movie": "Fight Club",
+    "difficulty": "Medium",
+    "hint": "The first rule is: you do not talk about it."
+  },
+  {
+    "id": 22,
+    "plot": "A young heir runs away to eat bugs with hippies after his uncle murders his dad.",
+    "movie": "The Lion King",
+    "difficulty": "Medium",
+    "hint": "Hakuna Matata."
+  },
+  {
+    "id": 23,
+    "plot": "A photographer takes selfies of himself in spandex.",
+    "movie": "Spider-Man",
+    "difficulty": "Easy",
+    "hint": "With great power comes great responsibility."
+  },
+  {
+    "id": 24,
+    "plot": "A man commits suicide repeatedly until he gets the girl.",
+    "movie": "Groundhog Day",
+    "difficulty": "Easy",
+    "hint": "Bill Murray relives the same day over and over."
+  },
+  {
+    "id": 25,
+    "plot": "A man betrays his race for a taller woman.",
+    "movie": "Avatar",
+    "difficulty": "Medium",
+    "hint": "Blue aliens on Pandora."
+  },
+  {
+    "id": 26,
+    "plot": "A writer struggles with peace and quiet while trying to bond with his family.",
+    "movie": "The Shining",
+    "difficulty": "Medium",
+    "hint": "Here's Johnny!"
+  },
+  {
+    "id": 27,
+    "plot": "A FedEx employee delivers a package late.",
+    "movie": "Cast Away",
+    "difficulty": "Easy",
+    "hint": "WILSON!"
+  },
+  {
+    "id": 28,
+    "plot": "A woman learns a foreign language so she can talk to squids.",
+    "movie": "Arrival",
+    "difficulty": "Hard",
+    "hint": "Amy Adams communicates with heptapods."
+  },
+  {
+    "id": 29,
+    "plot": "A cool girl takes a road trip to avoid divorce.",
+    "movie": "Gone Girl",
+    "difficulty": "Medium",
+    "hint": "Ben Affleck looks very guilty."
+  },
+  {
+    "id": 30,
+    "plot": "A father abandons his children to take a nap near a black hole.",
+    "movie": "Interstellar",
+    "difficulty": "Medium",
+    "hint": "Matthew McConaughey screams 'Murph!' at a bookshelf."
+  },
+  {
+    "id": 31,
+    "plot": "A local community is disrupted by an overzealous fish.",
+    "movie": "Jaws",
+    "difficulty": "Easy",
+    "hint": "You're gonna need a bigger boat."
+  },
+  {
+    "id": 32,
+    "plot": "A factory worker discovers a toxic child and tries to put it back.",
+    "movie": "Monsters, Inc.",
+    "difficulty": "Easy",
+    "hint": "Put that thing back where it came from or so help me!"
+  },
+  {
+    "id": 33,
+    "plot": "A woman changes her entire personality and starts smoking to impress a boy.",
+    "movie": "Grease",
+    "difficulty": "Medium",
+    "hint": "You're the one that I want."
+  },
+  {
+    "id": 34,
+    "plot": "A homeless teen finds a lamp and catfishes a princess.",
+    "movie": "Aladdin",
+    "difficulty": "Easy",
+    "hint": "A whole new world."
+  },
+  {
+    "id": 35,
+    "plot": "A man discovers he might be a toaster while hunting other toasters.",
+    "movie": "Blade Runner",
+    "difficulty": "Hard",
+    "hint": "Harrison Ford hunts replicants."
+  },
+  {
+    "id": 36,
+    "plot": "A girl goes to Harvard because her boyfriend broke up with her.",
+    "movie": "Legally Blonde",
+    "difficulty": "Easy",
+    "hint": "What, like it's hard?"
+  },
+  {
+    "id": 37,
+    "plot": "A billionaire builds a suit in a cave with a box of scraps.",
+    "movie": "Iron Man",
+    "difficulty": "Easy",
+    "hint": "I am... [Title]."
+  },
+  {
+    "id": 38,
+    "plot": "An immigrant gets tasered and loses his hammer.",
+    "movie": "Thor",
+    "difficulty": "Medium",
+    "hint": "Loki's brother."
+  },
+  {
+    "id": 39,
+    "plot": "An elderly man on steroids uses a frisbee to fight Nazis.",
+    "movie": "Captain America: The First Avenger",
+    "difficulty": "Easy",
+    "hint": "I can do this all day."
+  },
+  {
+    "id": 40,
+    "plot": "A raccoon and a tree help an idiot save the galaxy.",
+    "movie": "Guardians of the Galaxy",
+    "difficulty": "Easy",
+    "hint": "I am Groot."
+  },
+  {
+    "id": 41,
+    "plot": "A doctor breaks his hands and joins a cult.",
+    "movie": "Doctor Strange",
+    "difficulty": "Easy",
+    "hint": "Dormammu, I've come to bargain."
+  },
+  {
+    "id": 42,
+    "plot": "A man fights his cousin for a chair.",
+    "movie": "Black Panther",
+    "difficulty": "Hard",
+    "hint": "Wakanda Forever."
+  },
+  {
+    "id": 43,
+    "plot": "A teenage girl leads a revolution because she isn't like other girls.",
+    "movie": "Divergent",
+    "difficulty": "Medium",
+    "hint": "She doesn't fit into just one Faction."
+  },
+  {
+    "id": 44,
+    "plot": "Two co-workers manipulate their bosses into dating so they can get some time off.",
+    "movie": "Set It Up",
+    "difficulty": "Medium",
+    "hint": "A Netflix rom-com about assistants."
+  },
+  {
+    "id": 45,
+    "plot": "A man wears a mask and refuses to socially distance.",
+    "movie": "The Dark Knight Rises",
+    "difficulty": "Hard",
+    "hint": "Bane breaks the bat."
+  },
+  {
+    "id": 46,
+    "plot": "A puppet wants to be a real boy but ends up traumatized by a whale.",
+    "movie": "Pinocchio",
+    "difficulty": "Easy",
+    "hint": "If he lies, his nose grows."
+  },
+  {
+    "id": 47,
+    "plot": "A family goes on a ski trip and forgets their son... again.",
+    "movie": "Home Alone 2",
+    "difficulty": "Easy",
+    "hint": "Lost in New York."
+  },
+  {
+    "id": 48,
+    "plot": "A robot learns the meaning of life from a cockroach.",
+    "movie": "Short Circuit",
+    "difficulty": "Hard",
+    "hint": "Number 5 is alive!"
+  },
+  {
+    "id": 49,
+    "plot": "A group of criminals try to steal a moon.",
+    "movie": "Despicable Me",
+    "difficulty": "Easy",
+    "hint": "Yellow minions."
+  },
+  {
+    "id": 50,
+    "plot": "A man plays a board game and unleashes a jungle in his house.",
+    "movie": "Jumanji",
+    "difficulty": "Easy",
+    "hint": "Robin Williams asks 'What year is it?!'"
+  },
+  {
+    "id": 51,
+    "plot": "An orphan makes friends with a big cat and fights a monkey.",
+    "movie": "The Jungle Book",
+    "difficulty": "Easy",
+    "hint": "The Bare Necessities."
+  },
+  {
+    "id": 52,
+    "plot": "A divorced dad dresses up as a nanny to see his kids.",
+    "movie": "Mrs. Doubtfire",
+    "difficulty": "Easy",
+    "hint": "Robin Williams with a British accent."
+  },
+  {
+    "id": 53,
+    "plot": "A paranoid teacher thinks his student is the Antichrist.",
+    "movie": "The Omen",
+    "difficulty": "Hard",
+    "hint": "The kid's name is Damien."
+  },
+  {
+    "id": 54,
+    "plot": "A dog dies and everyone cries.",
+    "movie": "Marley & Me",
+    "difficulty": "Easy",
+    "hint": "Owen Wilson and Jennifer Aniston own a Labrador."
+  },
+  {
+    "id": 55,
+    "plot": "A wealthy family hires a poor family to smell good and drive cars.",
+    "movie": "Parasite",
+    "difficulty": "Medium",
+    "hint": "First non-English language film to win Best Picture."
+  },
+  {
+    "id": 56,
+    "plot": "A man runs across the country because a girl told him to.",
+    "movie": "Forrest Gump",
+    "difficulty": "Easy",
+    "hint": "Life is like a box of chocolates."
+  },
+  {
+    "id": 57,
+    "plot": "A cowboy gets jealous of an astronaut.",
+    "movie": "Toy Story",
+    "difficulty": "Easy",
+    "hint": "To infinity and beyond!"
+  },
+  {
+    "id": 58,
+    "plot": "A clown lives in a sewer and eats children.",
+    "movie": "It",
+    "difficulty": "Easy",
+    "hint": "You'll float too."
+  },
+  {
+    "id": 59,
+    "plot": "A man creates a social network to meet girls but gets sued instead.",
+    "movie": "The Social Network",
+    "difficulty": "Medium",
+    "hint": "Jesse Eisenberg plays Mark Zuckerberg."
+  },
+  {
+    "id": 60,
+    "plot": "A giant lizard destroys Tokyo because of nuclear testing.",
+    "movie": "Godzilla",
+    "difficulty": "Easy",
+    "hint": "King of the Monsters."
+  },
+  {
+    "id": 61,
+    "plot": "A cancer survivor murders people in red spandex.",
+    "movie": "Deadpool",
+    "difficulty": "Easy",
+    "hint": "He constantly breaks the fourth wall."
+  },
+  {
+    "id": 62,
+    "plot": "A janitor is really good at math.",
+    "movie": "Good Will Hunting",
+    "difficulty": "Easy",
+    "hint": "How do you like them apples?"
+  },
+  {
+    "id": 63,
+    "plot": "A failed nun becomes a nanny and flees the country.",
+    "movie": "The Sound of Music",
+    "difficulty": "Easy",
+    "hint": "The hills are alive."
+  },
+  {
+    "id": 64,
+    "plot": "A group of high schoolers get detention and dance.",
+    "movie": "The Breakfast Club",
+    "difficulty": "Easy",
+    "hint": "Don't you forget about me."
+  },
+  {
+    "id": 65,
+    "plot": "A man escapes prison by crawling through a mile of sewage.",
+    "movie": "The Shawshank Redemption",
+    "difficulty": "Medium",
+    "hint": "Get busy living, or get busy dying."
+  },
+  {
+    "id": 66,
+    "plot": "A child psychologist ghosts his wife.",
+    "movie": "The Sixth Sense",
+    "difficulty": "Medium",
+    "hint": "I see dead people."
+  },
+  {
+    "id": 67,
+    "plot": "A man discovers his life is a lie because a light fell from the sky.",
+    "movie": "The Truman Show",
+    "difficulty": "Medium",
+    "hint": "Jim Carrey is unaware he is on TV."
+  },
+  {
+    "id": 68,
+    "plot": "A teenager tries to date his mother but eventually sets her up with his dad.",
+    "movie": "Back to the Future",
+    "difficulty": "Easy",
+    "hint": "Marty McFly drives a DeLorean."
+  },
+  {
+    "id": 69,
+    "plot": "A delinquent helps a prisoner escape sea jail.",
+    "movie": "Free Willy",
+    "difficulty": "Easy",
+    "hint": "A boy and his orca whale."
+  },
+  {
+    "id": 70,
+    "plot": "A boxer fights a guy named Apollo.",
+    "movie": "Rocky",
+    "difficulty": "Easy",
+    "hint": "Sylvester Stallone yells 'Adrian!'"
+  },
+  {
+    "id": 71,
+    "plot": "A boy finds a golden ticket in a chocolate bar.",
+    "movie": "Willy Wonka & the Chocolate Factory",
+    "difficulty": "Easy",
+    "hint": "Oompa Loompas."
+  },
+  {
+    "id": 72,
+    "plot": "A group of kids ride bikes and find a pirate ship.",
+    "movie": "The Goonies",
+    "difficulty": "Easy",
+    "hint": "Hey you guys!"
+  },
+  {
+    "id": 73,
+    "plot": "A ghost hires a bio-exorcist to scare away the new homeowners.",
+    "movie": "Beetlejuice",
+    "difficulty": "Medium",
+    "hint": "Don't say his name three times."
+  },
+  {
+    "id": 74,
+    "plot": "A kid wishes to be big and regrets it.",
+    "movie": "Big",
+    "difficulty": "Easy",
+    "hint": "Tom Hanks plays the giant piano."
+  },
+  {
+    "id": 75,
+    "plot": "A cyborg is sent back in time to kill a waitress.",
+    "movie": "The Terminator",
+    "difficulty": "Medium",
+    "hint": "I'll be back."
+  },
+  {
+    "id": 76,
+    "plot": "A group of scientists clone dinosaurs and it goes wrong.",
+    "movie": "Jurassic Park",
+    "difficulty": "Easy",
+    "hint": "Life... uh... finds a way."
+  },
+  {
+    "id": 77,
+    "plot": "A bus cannot slow down or it will explode.",
+    "movie": "Speed",
+    "difficulty": "Easy",
+    "hint": "Keanu Reeves and Sandra Bullock."
+  },
+  {
+    "id": 78,
+    "plot": "A man saves Jews during the Holocaust.",
+    "movie": "Schindler's List",
+    "difficulty": "Easy",
+    "hint": "Directed by Steven Spielberg, shot in black and white."
+  },
+  {
+    "id": 79,
+    "plot": "Two hitmen discuss foot massages.",
+    "movie": "Pulp Fiction",
+    "difficulty": "Hard",
+    "hint": "Samuel L. Jackson quotes the bible."
+  },
+  {
+    "id": 80,
+    "plot": "A doll tries to transfer his soul into a child.",
+    "movie": "Child's Play",
+    "difficulty": "Easy",
+    "hint": "My name is Chucky."
+  },
+  {
+    "id": 81,
+    "plot": "A secret agent fights a guy with a metal mouth.",
+    "movie": "The Spy Who Loved Me",
+    "difficulty": "Medium",
+    "hint": "James Bond vs Jaws."
+  },
+  {
+    "id": 82,
+    "plot": "A ogre saves a princess and falls in love.",
+    "movie": "Shrek",
+    "difficulty": "Easy",
+    "hint": "Donkey is his best friend."
+  },
+  {
+    "id": 83,
+    "plot": "A hobbit travels to a volcano to destroy a ring.",
+    "movie": "The Lord of the Rings: The Return of the King",
+    "difficulty": "Easy",
+    "hint": "My precious."
+  },
+  {
+    "id": 84,
+    "plot": "A wizard goes to school.",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "difficulty": "Easy",
+    "hint": "You're a wizard, Harry."
+  },
+  {
+    "id": 85,
+    "plot": "A pirate hunts for a cursed treasure.",
+    "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "difficulty": "Easy",
+    "hint": "Captain Jack Sparrow."
+  },
+  {
+    "id": 86,
+    "plot": "A superhero family hides their powers in suburbia.",
+    "movie": "The Incredibles",
+    "difficulty": "Easy",
+    "hint": "Where is my super suit?!"
+  },
+  {
+    "id": 87,
+    "plot": "A race car gets lost in a small town.",
+    "movie": "Cars",
+    "difficulty": "Easy",
+    "hint": "Lightning McQueen."
+  },
+  {
+    "id": 88,
+    "plot": "A panda learns kung fu.",
+    "movie": "Kung Fu Panda",
+    "difficulty": "Easy",
+    "hint": "Jack Black voices the bear."
+  },
+  {
+    "id": 89,
+    "plot": "A girl from Africa is elected queen and breaks her crown.",
+    "movie": "Mean Girls",
+    "difficulty": "Medium",
+    "hint": "On Wednesdays we wear pink."
+  },
+  {
+    "id": 90,
+    "plot": "A team of superheroes fight an alien army in New York.",
+    "movie": "The Avengers",
+    "difficulty": "Easy",
+    "hint": "Hulk smash."
+  },
+  {
+    "id": 91,
+    "plot": "An intern signs a very weird contract.",
+    "movie": "Fifty Shades of Grey",
+    "difficulty": "Medium",
+    "hint": "The singular of the title is a color."
+  },
+  {
+    "id": 92,
+    "plot": "A man gets left on Mars and grows potatoes.",
+    "movie": "The Martian",
+    "difficulty": "Easy",
+    "hint": "Matt Damon needs rescue."
+  },
+  {
+    "id": 93,
+    "plot": "A bunny cop solves a mystery.",
+    "movie": "Zootopia",
+    "difficulty": "Easy",
+    "hint": "The sloth works at the DMV."
+  },
+  {
+    "id": 94,
+    "plot": "A musician goes to the land of the dead.",
+    "movie": "Coco",
+    "difficulty": "Easy",
+    "hint": "Pixar movie with skeletons and guitars."
+  },
+  {
+    "id": 95,
+    "plot": "Meeting the girlfriend's parents goes horribly wrong.",
+    "movie": "Get Out",
+    "difficulty": "Medium",
+    "hint": "The sunken place."
+  },
+  {
+    "id": 96,
+    "plot": "A detective solves a murder in a family estate.",
+    "movie": "Knives Out",
+    "difficulty": "Easy",
+    "hint": "Daniel Craig with a southern accent."
+  },
+  {
+    "id": 97,
+    "plot": "A pilot goes back in time to save the future, maybe.",
+    "movie": "Tenet",
+    "difficulty": "Hard",
+    "hint": "Time moves backwards."
+  },
+  {
+    "id": 98,
+    "plot": "A deaf family struggles to survive sound-sensitive monsters.",
+    "movie": "A Quiet Place",
+    "difficulty": "Easy",
+    "hint": "If they hear you, they hunt you."
+  },
+  {
+    "id": 99,
+    "plot": "A video game character wants to be a hero.",
+    "movie": "Wreck-It Ralph",
+    "difficulty": "Easy",
+    "hint": "I'm gonna wreck it!"
+  },
+  {
+    "id": 100,
+    "plot": "A woman leaves her boyfriend for an insect.",
+    "movie": "Bee Movie",
+    "difficulty": "Medium",
+    "hint": "Jerry Seinfeld voices the insect."
+  }
+]
