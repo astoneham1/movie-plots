@@ -1,6 +1,6 @@
-/** {*/
-/*    border: 1px solid black;*/
-/*}*/
+* {
+    border: 1px solid black;
+}
 
 body {
     background: linear-gradient(133deg,#1da03d,#50afe8,#f3234b,#ec4db1,#8ea08e);
@@ -24,7 +24,7 @@ body {
 
 #title {
     text-align: center;
-    padding: 20px;
+    padding: 16px;
 }
 
 .row {
@@ -32,30 +32,30 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     width: 100%;
-    max-width: 1200px;
-    padding: 20px;
+    max-width: 960px;
+    padding: 16px;
 }
 
 #plot-text {
-    padding: 20px;
+    padding: 16px;
     background-color: grey;
-    border-radius: 20px;
+    border-radius: 16px;
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 2.4rem;
     color: white;
     margin: 0;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: white;
     margin: 0;
 }
 
 h3 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     color: white;
     margin: 0;
     padding: 5px;
@@ -72,17 +72,17 @@ h3 {
 .search-wrapper {
     position: relative;
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
     margin: 0 auto; /* Centers the wrapper horizontally */
 }
 
 #movie-search {
     width: 100%;
-    font-size: 1.5rem;
-    padding: 15px;      /* Adds breathing room for text */
+    font-size: 1.2rem;
+    padding: 12px;      /* Adds breathing room for text */
     border: none;       /* Removes the default ugly border */
-    border-radius: 30px; /* Rounded pill shape */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Soft shadow */
+    border-radius: 24px; /* Rounded pill shape */
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2); /* Soft shadow */
     outline: none;      /* Removes the blue glow when clicking */
     box-sizing: border-box; /* Ensures padding doesn't widen the box */
 }
@@ -101,11 +101,11 @@ h3 {
     display: none;      /* Hidden by default */
 }
 .result-item {
-    padding: 12px 20px;
+    padding: 10px 16px;
     border-bottom: 1px solid #eee;
     color: #333;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 0.8rem;
     transition: background 0.1s;
 }
 
