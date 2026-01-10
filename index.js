@@ -78,7 +78,12 @@ async function handleMovies() {
 }
 
 function chooseMovie() {
+    const oldMovie = chosenMovie;
     chosenMovie = Math.random() * movieObjects.length | 0;
+    // ensure a new movie is chosen
+    while (oldMovie === chosenMovie) {
+        chosenMovie = Math.random() * movieObjects.length | 0;
+    }
     const plotText = document.getElementById('plot-text');
     plotText.textContent = movieObjects[chosenMovie].plot;
     triggerFeedback(plotText, 'plot-update');
