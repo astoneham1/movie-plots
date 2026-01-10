@@ -55,7 +55,10 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
     
-    skipBtn.addEventListener('click', chooseMovie);
+    skipBtn.addEventListener('click', () => {
+        incorrectGuess();
+        chooseMovie();
+    });
     hintBtn.addEventListener('click', () => {
         displayHint();
     });
