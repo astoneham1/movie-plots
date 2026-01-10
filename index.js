@@ -94,8 +94,11 @@ function chooseMovie() {
 }
 
 function handleGuess(guess) {
-    if (guess === movieObjects[chosenMovie].movie) {
+    const isCorrect = guess === movieObjects[chosenMovie].movie;
+    if (isCorrect) {
         correctGuess();
+        // If correct, we clear any previous answer immediately
+        document.getElementById('answer-container').innerHTML = '';
     } else {
         incorrectGuess();
     }
@@ -116,20 +119,26 @@ function incorrectGuess() {
     const scoreElement = document.getElementById('score');
     scoreElement.innerHTML = "<strong>Score: </strong>" + score;
     triggerFeedback(scoreElement, 'score-decrease');
-    showAnswerPopup();
+    showAnswerPopup(movieObjects[chosenMovie].movie);
 }
 
-function showAnswerPopup() {
+function showAnswerPopup(movieTitle) {
     const container = document.getElementById('answer-container');
+    container.innerHTML = ''; // Clear existing popups
     const popup = document.createElement('div');
     popup.classList.add('answer-popup');
-    popup.textContent = "The movie was: " + movieObjects[chosenMovie].movie;
+    popup.textContent = "The movie was: " + movieTitle;
     container.appendChild(popup);
+
+    // Force reflow
+    void popup.offsetWidth;
 
     setTimeout(() => {
         popup.style.opacity = '0';
         setTimeout(() => {
-            popup.remove();
+            if (popup.parentNode) {
+                popup.remove();
+            }
         }, 500);
     }, 2000);
 }

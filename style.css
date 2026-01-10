@@ -1,11 +1,9 @@
 /** {*/
-/*    border: 1px solid black;*/
+/*    border: 1px solid red;*/
 /*}*/
 
 body {
-    background: linear-gradient(133deg,#1da03d,#50afe8,#f3234b,#ec4db1,#8ea08e);
-    background-size: 300% 300%;
-    animation: gradient-animation 30s ease infinite;
+    background-color: #d2c5a2; /* Weathered beige */
     margin: 0;
     min-height: 100vh;
     font-family: 'Roboto', sans-serif;
@@ -14,12 +12,41 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
+    overflow-x: hidden;
 }
 
-@keyframes gradient-animation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+.film-strip {
+    position: fixed;
+    top: 0;
+    width: 100px;
+    height: 100%;
+    background-color: #1a1a1a;
+    z-index: -1;
+    background-image: 
+        /* Left perforations */
+        linear-gradient(to bottom, #d2c5a2 70%, transparent 70%),
+        /* Right perforations */
+        linear-gradient(to bottom, #d2c5a2 70%, transparent 70%),
+        /* Center frames */
+        linear-gradient(to bottom, #d2c5a2 90%, transparent 90%);
+    background-position: 
+        10px 0,   /* Left perforations */
+        80px 0,   /* Right perforations */
+        25px 10px; /* Center frames */
+    background-size: 
+        10px 15px, /* Perforations size */
+        10px 15px, /* Perforations size */
+        50px 80px; /* Frames size */
+    background-repeat: repeat-y;
+}
+
+.film-strip.left {
+    left: 0;
+}
+
+.film-strip.right {
+    right: 0;
 }
 
 .score-increase {
@@ -53,9 +80,11 @@ body {
 
 #plot-text {
     padding: 16px;
-    background-color: grey;
+    background-color: #f5f0e1;
+    border: 1px solid #c2b592;
     border-radius: 16px;
     transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
 .plot-update {
@@ -67,6 +96,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
+    z-index: 10;
 }
 
 .answer-popup {
@@ -78,6 +109,7 @@ body {
     font-weight: bold;
     box-shadow: 0 4px 15px rgba(0,0,0,0.3);
     pointer-events: none;
+    opacity: 1;
     transition: opacity 0.5s ease;
     text-align: center;
     margin: 0;
@@ -85,20 +117,20 @@ body {
 
 h1 {
     font-size: 2.4rem;
-    color: white;
+    color: #333;
     margin: 0;
 }
 
 h2 {
     font-size: 1.6rem;
-    color: white;
+    color: #333;
     margin: 0;
     text-align: center;
 }
 
 h3 {
     font-size: 1rem;
-    color: white;
+    color: #444;
     margin: 0;
     padding: 5px;
     text-align: center;
@@ -125,29 +157,51 @@ h3 {
 .search-wrapper {
     position: relative;
     width: 100%;
-    max-width: 400px;
+    max-width: 500px;
     margin: 0 auto;
+    display: flex;
+    gap: 10px;
+    align-items: stretch;
 }
 
 #movie-search {
-    width: 60%;
-    font-size: 1.2rem;
-    padding: 12px;
-    border: none;
-    border-radius: 24px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    flex-grow: 1;
+    font-size: 1rem;
+    color: #333;
+    background-color: #f5f0e1;
+    padding: 10px 16px;
+    border: 1px solid #c2b592;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     outline: none;
-    box-sizing: border-box;
+    transition: all 0.3s ease;
+}
+
+#movie-search:focus {
+    border-color: #a09578;
+    background-color: #fffdf5;
+}
+
+#movie-search::placeholder {
+    color: #888;
 }
 
 #skip, #hint {
-    font-size: 1.2rem;
-    background-color: white;
-    padding: 12px;
-    border: none;
-    border-radius: 24px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    font-size: 1rem;
+    color: #333;
+    background-color: #f5f0e1;
+    padding: 10px 15px;
+    border: 1px solid #c2b592;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+#skip:hover, #hint:hover {
+    background-color: #e8e0c8;
 }
 
 #search-results {
@@ -158,6 +212,7 @@ h3 {
     background-color: white;
     border-radius: 15px;
     overflow: hidden;
+    z-index: 20;
 }
 .result-item {
     padding: 10px 16px;
@@ -172,6 +227,11 @@ h3 {
     border-bottom: none;
 }
 
-.result-item:hover, #hint:hover, #skip:hover {
+.result-item:hover {
     background-color: #f0f0f0;
+}
+@media (max-width: 800px) {
+    .film-strip {
+        display: none;
+    }
 }
