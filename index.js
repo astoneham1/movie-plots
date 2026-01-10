@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
     
-    skipBtn.addEventListener('click', runGame);
+    skipBtn.addEventListener('click', chooseMovie);
     hintBtn.addEventListener('click', () => {
         displayHint();
     });
@@ -78,6 +78,11 @@ function chooseMovie() {
     chosenMovie = Math.random() * movieObjects.length | 0;
     const plotText = document.getElementById('plot-text');
     plotText.textContent = movieObjects[chosenMovie].plot;
+    triggerFeedback(plotText, 'plot-update');
+    
+    const hintText = document.getElementById('hintText');
+    hintText.style.display = 'none';
+    hintUsed = false;
 }
 
 function handleGuess(guess) {
@@ -93,14 +98,28 @@ function handleGuess(guess) {
 
 function correctGuess() {
     hintUsed ? score = score+0.5 : score++;
-    document.getElementById('score').innerHTML = "<strong>Score: </strong> " + score;
+    const scoreElement = document.getElementById('score');
+    scoreElement.innerHTML = "<strong>Score: </strong> " + score;
+    triggerFeedback(scoreElement, 'score-increase');
 }
 
 function incorrectGuess() {
     (score > 0) ? score = score - 0.5 : score;
-    document.getElementById('score').innerHTML = "<strong>Score: </strong>" + score;
+    const scoreElement = document.getElementById('score');
+    scoreElement.innerHTML = "<strong>Score: </strong>" + score;
+    triggerFeedback(scoreElement, 'score-decrease');
+}
+
+function triggerFeedback(element, className) {
+    element.classList.add(className);
+    setTimeout(() => {
+        element.classList.remove(className);
+    }, 500);
 }
 
 function displayHint() {
     hintUsed = true;
+    const hintText = document.getElementById('hintText');
+    hintText.innerHTML = `<i>Hint: ${movieObjects[chosenMovie].hint}</i>`;
+    hintText.style.display = 'block';
 }
