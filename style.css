@@ -69,39 +69,50 @@ h3 {
     align-items: center;
 }
 
-/* Container to position the search box and results together */
 .search-wrapper {
-    position: relative; /* Essential for positioning the dropdown */
-    width: 100%;
-    max-width: 500px;   /* Prevents it from getting too wide on desktop */
-}
-
-/* The actual Input Box */
-#movieSearch {
-    width: 100%;
-    font-size: 1.5rem;
-    border-radius: 5px;
-}
-
-/* The Dropdown List */
-#resultsList {
     position: relative;
     width: 100%;
-    background-color: white;
+    max-width: 500px;
+    margin: 0 auto; /* Centers the wrapper horizontally */
 }
 
-/* Individual Result Items */
-.result-item {
-    padding: 10px 10px;
-    margin: 5px;
-    border-radius: 5px;
+#movie-search {
+    width: 100%;
+    font-size: 1.5rem;
+    padding: 15px;      /* Adds breathing room for text */
+    border: none;       /* Removes the default ugly border */
+    border-radius: 30px; /* Rounded pill shape */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Soft shadow */
+    outline: none;      /* Removes the blue glow when clicking */
+    box-sizing: border-box; /* Ensures padding doesn't widen the box */
+}
+
+#search-results {
+    position: absolute; /* FIXES THE JUMPING: Floats the list on top */
+    top: 100%;          /* Positions it exactly at the bottom of the input */
+    left: 0;
+    width: 100%;
+    margin-top: 10px;   /* A little gap between input and list */
     background-color: white;
-    color: black;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    overflow: hidden;   /* Keeps corners rounded */
+    z-index: 10;        /* Ensures it sits on top of everything else */
+    display: none;      /* Hidden by default */
+}
+.result-item {
+    padding: 12px 20px;
+    border-bottom: 1px solid #eee;
+    color: #333;
     cursor: pointer;
-    font-size: 0.7rem;
-    transition: background 0.2s;
+    font-size: 1rem;
+    transition: background 0.1s;
+}
+
+.result-item:last-child {
+    border-bottom: none;
 }
 
 .result-item:hover {
-    background-color: lightgrey;
+    background-color: #f0f0f0;
 }
