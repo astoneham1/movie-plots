@@ -1,30 +1,20 @@
+let chosenMovie = -1;
+let movieList = [];
+let movieObjects = [];
+let score = 0;
+let hintUsed = false;
+
 document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('movie-search');
     const resultsList = document.getElementById('search-results');
-
-    // A dummy list of movies for demonstration
-    // In a real app, you would fetch this from an API like OMDb or TMDB
-    const movieList = [
-        "Star Wars: A New Hope",
-        "The Lord of the Rings",
-        "Harry Potter",
-        "The Matrix",
-        "Inception",
-        "Interstellar",
-        "Finding Nemo",
-        "Toy Story",
-        "The Lion King",
-        "Avengers: Endgame",
-        "Spider-Man",
-        "Batman Begins"
-    ];
-
-    // Listen for typing in the search box
+    
+    runGame();
+    
     searchInput.addEventListener('input', function() {
         const query = this.value.toLowerCase();
         resultsList.innerHTML = ''; // Clear previous results
 
-        if (query.length < 3) {
+        if (query.length < 2) {
             resultsList.style.display = 'none';
             return;
         }
@@ -45,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     searchInput.value = movie;
                     resultsList.style.display = 'none';
                     console.log(`User selected: ${movie}`);
-                    // logic to load the "badly explained plot" for this movie would go here
+                    handleGuess(movie);
                 });
 
                 resultsList.appendChild(div);
@@ -63,3 +53,42 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
+function runGame() {
+    handleMovies().then(() => chooseMovie());
+    console.log("Movie chosen");
+}
+
+async function handleMovies() {
+    const res = await fetch('./resources/movies.json');
+    movieObjects = await res.json();
+    movieObjects.forEach(movie => movieList.push(movie.movie));
+    console.log(movieList);
+}
+
+function chooseMovie() {
+    chosenMovie = Math.random() * movieObjects.length | 0;
+    const plotText = document.getElementById('plot-text');
+    plotText.textContent = movieObjects[chosenMovie].plot;
+}
+
+function handleGuess(guess) {
+    if (guess === movieObjects[chosenMovie].movie) {
+        correctGuess();
+    } else {
+        incorrectGuess();
+    }
+    const searchInput = document.getElementById('movie-search');
+    searchInput.value = '';
+    chooseMovie();
+}
+
+function correctGuess() {
+    hintUsed ? score++ : score = score+0.5;
+    document.getElementById('score').innerHTML = "<strong>Score: </strong> " + score;
+}
+
+function incorrectGuess() {
+    (score > 0) ? score  = score - 0.5 : score;
+    document.getElementById('score').innerHTML = "<strong>Score: </strong>" + score;
+}

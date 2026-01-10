@@ -33,10 +33,10 @@ body {
     flex-wrap: wrap;
     width: 100%;
     max-width: 1200px;
-    padding: 50px;
+    padding: 20px;
 }
 
-.row h2 {
+#plot-text {
     padding: 20px;
     background-color: grey;
     border-radius: 20px;
@@ -46,14 +46,12 @@ h1 {
     font-size: 3rem;
     color: white;
     margin: 0;
-    padding: 10px;
 }
 
 h2 {
     font-size: 2rem;
     color: white;
     margin: 0;
-    padding: 10px;
 }
 
 h3 {
