@@ -116,6 +116,22 @@ function incorrectGuess() {
     const scoreElement = document.getElementById('score');
     scoreElement.innerHTML = "<strong>Score: </strong>" + score;
     triggerFeedback(scoreElement, 'score-decrease');
+    showAnswerPopup();
+}
+
+function showAnswerPopup() {
+    const container = document.getElementById('answer-container');
+    const popup = document.createElement('div');
+    popup.classList.add('answer-popup');
+    popup.textContent = "The movie was: " + movieObjects[chosenMovie].movie;
+    container.appendChild(popup);
+
+    setTimeout(() => {
+        popup.style.opacity = '0';
+        setTimeout(() => {
+            popup.remove();
+        }, 500);
+    }, 2000);
 }
 
 function triggerFeedback(element, className) {
@@ -127,8 +143,8 @@ function triggerFeedback(element, className) {
 
 function displayHint() {
     hintUsed = true;
-    const hintText = document.getElementById('hintText');
     const hintContainer = document.getElementById('hint-container');
+    const hintText = document.getElementById('hintText');
     hintText.innerHTML = `<i>Hint: ${movieObjects[chosenMovie].hint}</i>`;
-    hintContainer.style.display = 'block';
+    hintContainer.style.display = 'flex';
 }
