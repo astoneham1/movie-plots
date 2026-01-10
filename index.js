@@ -80,8 +80,8 @@ function chooseMovie() {
     plotText.textContent = movieObjects[chosenMovie].plot;
     triggerFeedback(plotText, 'plot-update');
     
-    const hintText = document.getElementById('hintText');
-    hintText.style.display = 'none';
+    const hintContainer = document.getElementById('hint-container');
+    hintContainer.style.display = 'none';
     hintUsed = false;
 }
 
@@ -120,6 +120,7 @@ function triggerFeedback(element, className) {
 function displayHint() {
     hintUsed = true;
     const hintText = document.getElementById('hintText');
+    const hintContainer = document.getElementById('hint-container');
     hintText.innerHTML = `<i>Hint: ${movieObjects[chosenMovie].hint}</i>`;
-    hintText.style.display = 'block';
+    hintContainer.style.display = 'block';
 }
