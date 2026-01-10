@@ -84,11 +84,11 @@ function handleGuess(guess) {
 }
 
 function correctGuess() {
-    hintUsed ? score++ : score = score+0.5;
+    hintUsed ? score = score+0.5 : score++;
     document.getElementById('score').innerHTML = "<strong>Score: </strong> " + score;
 }
 
 function incorrectGuess() {
-    (score > 0) ? score  = score - 0.5 : score;
+    (score > 0) ? score = score - 0.5 : score;
     document.getElementById('score').innerHTML = "<strong>Score: </strong>" + score;
 }
