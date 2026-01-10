@@ -7,6 +7,8 @@ let hintUsed = false;
 document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('movie-search');
     const resultsList = document.getElementById('search-results');
+    const skipBtn = document.getElementById('skip');
+    const hintBtn = document.getElementById('hint');
     
     runGame();
     
@@ -52,6 +54,12 @@ document.addEventListener('DOMContentLoaded', () => {
             resultsList.style.display = 'none';
         }
     });
+    
+    skipBtn.addEventListener('click', runGame);
+    hintBtn.addEventListener('click', () => {
+        displayHint();
+    });
+    
 });
 
 function runGame() {
@@ -91,4 +99,8 @@ function correctGuess() {
 function incorrectGuess() {
     (score > 0) ? score = score - 0.5 : score;
     document.getElementById('score').innerHTML = "<strong>Score: </strong>" + score;
+}
+
+function displayHint() {
+    hintUsed = true;
 }
