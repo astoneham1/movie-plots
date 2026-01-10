@@ -22,9 +22,24 @@ body {
     100% { background-position: 0% 50%; }
 }
 
+.score-increase {
+    color: #2ecc71 !important;
+    transform: scale(1.1);
+    transition: all 0.2s ease;
+}
+
+.score-decrease {
+    color: #e74c3c !important;
+    transform: scale(0.9);
+    transition: all 0.2s ease;
+}
+
+#score {
+    transition: all 0.3s ease;
+}
+
 #title {
     text-align: center;
-    padding: 16px;
 }
 
 .row {
@@ -40,6 +55,11 @@ body {
     padding: 16px;
     background-color: grey;
     border-radius: 16px;
+    transition: all 0.3s ease;
+}
+
+.plot-update {
+    transform: scale(0.98);
 }
 
 h1 {
@@ -61,6 +81,10 @@ h3 {
     padding: 5px;
 }
 
+#hintText {
+    display: none;
+}
+
 .search-container {
     width: 40%;
     display: flex;
@@ -73,28 +97,28 @@ h3 {
     position: relative;
     width: 100%;
     max-width: 400px;
-    margin: 0 auto; /* Centers the wrapper horizontally */
+    margin: 0 auto;
 }
 
 #movie-search {
     width: 60%;
     font-size: 1.2rem;
-    padding: 12px;      /* Adds breathing room for text */
-    border: none;       /* Removes the default ugly border */
-    border-radius: 24px; /* Rounded pill shape */
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2); /* Soft shadow */
-    outline: none;      /* Removes the blue glow when clicking */
-    box-sizing: border-box; /* Ensures padding doesn't widen the box */
+    padding: 12px;
+    border: none;
+    border-radius: 24px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    outline: none;
+    box-sizing: border-box;
 }
 
 #skip, #hint {
     font-size: 1.2rem;
     background-color: white;
-    padding: 12px;      /* Adds breathing room for text */
-    border: none;       /* Removes the default ugly border */
-    border-radius: 24px; /* Rounded pill shape */
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2); /* Soft shadow */
-    box-sizing: border-box; /* Ensures padding doesn't widen the box */
+    padding: 12px;
+    border: none;
+    border-radius: 24px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    box-sizing: border-box;
 }
 
 #search-results {
