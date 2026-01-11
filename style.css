@@ -178,11 +178,16 @@ h3 {
 .search-wrapper {
     position: relative;
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     margin: 0 auto;
     display: flex;
     gap: 10px;
-    align-items: stretch;
+    align-items: center;
+}
+
+.search-buttons-mobile {
+    display: flex;
+    gap: 10px;
 }
 
 #movie-search {
@@ -251,6 +256,58 @@ h3 {
 .result-item:hover {
     background-color: #f0f0f0;
 }
+@media (max-width: 600px) {
+    #title h1 {
+        font-size: 2rem;
+    }
+
+    #title h3 {
+        font-size: 1rem;
+    }
+
+    .row {
+        padding: 8px;
+    }
+
+    #plot-text {
+        font-size: 1.2rem;
+        padding: 10px;
+    }
+
+    .search-wrapper {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+    }
+
+    .search-buttons-mobile {
+        width: 100%;
+        gap: 8px;
+    }
+
+    .search-buttons-mobile button {
+        flex: 1;
+        padding: 12px; /* Slightly larger touch target */
+    }
+
+    #movie-search {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 12px; /* Slightly larger touch target */
+    }
+
+    #skip, #hint {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    #search-results {
+        position: relative;
+        width: 100%;
+        margin-top: 5px;
+    }
+}
+
 @media (max-width: 800px) {
     .film-strip {
         display: none;
