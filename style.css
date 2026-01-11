@@ -261,8 +261,9 @@ h3 {
 }
 @media (max-width: 600px) {
     body {
-        justify-content: flex-start;
-        padding-top: 20px;
+        justify-content: center;
+        padding-bottom: 10dvh; /* Push content slightly up from center */
+        box-sizing: border-box;
         overflow-y: scroll; /* Force scrollbar to prevent layout shifts */
     }
 
