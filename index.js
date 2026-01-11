@@ -57,6 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     skipBtn.addEventListener('click', () => {
         incorrectGuess();
+        movieObjects.splice(chosenMovie, 1);
         chooseMovie();
     });
     hintBtn.addEventListener('click', () => {
@@ -67,23 +68,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function runGame() {
     handleMovies().then(() => chooseMovie());
-    console.log("Movie chosen");
+    console.log("Game started");
 }
 
 async function handleMovies() {
     const res = await fetch('./resources/movies.json');
     movieObjects = await res.json();
+    movieList = [];
     movieObjects.forEach(movie => movieList.push(movie.movie));
-    console.log(movieList);
 }
 
 function chooseMovie() {
-    const oldMovie = chosenMovie;
-    chosenMovie = Math.random() * movieObjects.length | 0;
-    // ensure a new movie is chosen
-    while (oldMovie === chosenMovie) {
-        chosenMovie = Math.random() * movieObjects.length | 0;
+    if (movieObjects.length === 0) {
+        runGame();
+        return;
     }
+    chosenMovie = Math.random() * movieObjects.length | 0;
+
     const plotText = document.getElementById('plot-text');
     plotText.textContent = movieObjects[chosenMovie].plot;
     triggerFeedback(plotText, 'plot-update');
@@ -104,6 +105,10 @@ function handleGuess(guess) {
     }
     const searchInput = document.getElementById('movie-search');
     searchInput.value = '';
+    
+    // Remove the seen movie from movieObjects
+    movieObjects.splice(chosenMovie, 1);
+    
     chooseMovie();
 }
 
