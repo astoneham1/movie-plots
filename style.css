@@ -170,11 +170,11 @@ h3 {
 
 .search-input-container {
     position: relative;
-    flex-grow: 1;
+    flex: 1;
+    min-width: 0;
 }
 
 .search-wrapper {
-    position: relative;
     width: 100%;
     max-width: 600px;
     display: flex;
@@ -188,6 +188,7 @@ h3 {
 }
 
 #movie-search {
+    display: block;
     width: 100%;
     box-sizing: border-box;
     font-size: 0.9rem;
@@ -231,7 +232,8 @@ h3 {
 #search-results {
     position: absolute;
     top: 100%;
-    width: 100%;
+    left: 0;
+    right: 0;
     margin-top: 5px;
     background-color: white;
     border-radius: 12px;
@@ -239,6 +241,7 @@ h3 {
     overflow-y: auto;
     max-height: 250px;
     z-index: 20;
+    box-sizing: border-box;
 }
 .result-item {
     padding: 8px 12px;
@@ -324,13 +327,8 @@ h3 {
     }
 
     #search-results {
-        position: absolute;
-        width: 100%;
-        left: 0;
-        top: 100%;
         margin-top: 4px;
         z-index: 100;
-        box-sizing: border-box;
     }
 }
 
