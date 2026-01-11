@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const skipBtn = document.getElementById('skip');
     const hintBtn = document.getElementById('hint');
     
+    updateHighScore();
     runGame();
     
     searchInput.addEventListener('input', function() {
@@ -58,6 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     skipBtn.addEventListener('click', () => {
         incorrectGuess();
         movieObjects.splice(chosenMovie, 1);
+        updateHighScore();
         chooseMovie();
     });
     hintBtn.addEventListener('click', () => {
@@ -65,6 +67,19 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     
 });
+
+function updateHighScore() {
+    let highScore = parseFloat(localStorage.getItem('highScore')) || 0;
+    if (score > highScore) {
+        highScore = score;
+        localStorage.setItem('highScore', highScore);
+    }
+    
+    const highScoreElement = document.getElementById('high-score');
+    if (highScoreElement) {
+        highScoreElement.innerHTML = `<strong>High Score: </strong>${highScore}`;
+    }
+}
 
 function runGame() {
     handleMovies().then(() => chooseMovie());
@@ -92,6 +107,7 @@ function chooseMovie() {
     const hintContainer = document.getElementById('hint-container');
     hintContainer.style.display = 'none';
     hintUsed = false;
+    console.log(movieObjects[chosenMovie].movie);
 }
 
 function handleGuess(guess) {
@@ -108,7 +124,7 @@ function handleGuess(guess) {
     
     // Remove the seen movie from movieObjects
     movieObjects.splice(chosenMovie, 1);
-    
+    updateHighScore();
     chooseMovie();
 }
 
@@ -134,9 +150,6 @@ function showAnswerPopup(movieTitle) {
     popup.classList.add('answer-popup');
     popup.textContent = "The movie was: " + movieTitle;
     container.appendChild(popup);
-
-    // Force reflow
-    void popup.offsetWidth;
 
     setTimeout(() => {
         popup.style.opacity = '0';
