@@ -6,10 +6,16 @@ body, button, input {
     font-family: 'Overpass Mono', monospace;
 }
 
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: #d2c5a2; /* Weathered beige */
     margin: 0;
-    height: 100dvh; /* Lock height to viewport for modern mobile browsers */
+    min-height: 100vh;
     width: 100%;
 
     display: flex;
@@ -37,11 +43,11 @@ body {
     background-position: 
         8px 0,   /* Left perforations */
         62px 0,   /* Right perforations */
-        20px 10px; /* Center frames */
+        20px 0; /* Center frames */
     background-size: 
         10px 15px, /* Perforations size */
         10px 15px, /* Perforations size */
-        40px 65px; /* Frames size */
+        40px 75px; /* Frames size */
     background-repeat: repeat-y;
 }
 
