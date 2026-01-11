@@ -55,6 +55,23 @@ document.addEventListener('DOMContentLoaded', () => {
             resultsList.style.display = 'none';
         }
     });
+
+    // Reset scroll position when keyboard is dismissed (on mobile)
+    searchInput.addEventListener('blur', () => {
+        // Only scroll if the document has been scrolled (likely by the keyboard)
+        if (window.scrollY > 0) {
+            setTimeout(() => {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            }, 100);
+        }
+    });
+
+    // Also handle the case where a search result is clicked
+    // handleGuess already handles clearing input and moving to next movie,
+    // but the blur event on searchInput will trigger when a result is clicked.
     
     skipBtn.addEventListener('click', () => {
         incorrectGuess();
