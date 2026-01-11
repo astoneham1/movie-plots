@@ -2,11 +2,14 @@
 /*    border: 1px solid red;*/
 /*}*/
 
+body, button, input {
+    font-family: 'Overpass Mono', monospace;
+}
+
 body {
     background-color: #d2c5a2; /* Weathered beige */
     margin: 0;
     min-height: 100vh;
-    font-family: 'Roboto', sans-serif;
 
     display: flex;
     flex-direction: column;
@@ -67,6 +70,20 @@ body {
 
 #title {
     text-align: center;
+}
+
+#title h1 {
+    font-family: 'Notable', sans-serif;
+    font-size: 4rem;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#title h3 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    font-style: italic;
 }
 
 #title p {
