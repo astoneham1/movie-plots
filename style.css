@@ -191,7 +191,7 @@ h3 {
     display: block;
     width: 100%;
     box-sizing: border-box;
-    font-size: 0.9rem;
+    font-size: 16px;
     color: #333;
     background-color: #f5f0e1;
     padding: 8px 12px;
@@ -212,7 +212,7 @@ h3 {
 }
 
 #skip, #hint {
-    font-size: 0.9rem;
+    font-size: 16px;
     color: #333;
     background-color: #f5f0e1;
     padding: 8px 12px;
@@ -331,6 +331,11 @@ h3 {
     #search-results {
         margin-top: 4px;
         z-index: 100;
+    }
+
+    .result-item {
+        font-size: 16px;
+        padding: 12px;
     }
 }
 
