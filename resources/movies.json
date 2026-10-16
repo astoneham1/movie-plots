@@ -1,193 +1,353 @@
 [
   {
-    "plot": "A neurotic father traverses the ocean to find his son who touched a boat.",
+    "plot": "A single father crosses an ocean because his son touched a boat.",
     "movie": "Finding Nemo",
     "hint": "P. Sherman, 42 Wallaby Way, Sydney."
   },
   {
-    "plot": "A billionaire spends his fortune beating up the mentally ill in costumes.",
-    "movie": "Batman",
-    "hint": "The Joker."
+    "plot": "A fish with no short-term memory suddenly remembers she has parents.",
+    "movie": "Finding Dory",
+    "hint": "Marine Life Institute."
   },
   {
-    "plot": "A young boy commits brutal acts of violence against two elderly entrepreneurs.",
-    "movie": "Home Alone",
-    "hint": "Aftershave burn."
-  },
-  {
-    "plot": "A girl runs away from home because her sister wouldn't build a snowman.",
+    "plot": "A queen runs away to the mountains rather than build a snowman with her sister.",
     "movie": "Frozen",
-    "hint": "Arendelle."
+    "hint": "A snowman who likes warm hugs."
   },
   {
-    "plot": "A single father tries to end world hunger with his rock collection.",
-    "movie": "Avengers: Infinity War",
-    "hint": "Thanos."
-  },
-  {
-    "plot": "A man takes drugs from a stranger and starts fighting people in sunglasses.",
-    "movie": "The Matrix",
-    "hint": "Follow the white rabbit."
-  },
-  {
-    "plot": "An elderly woman throws a rare jewel into the ocean after telling a story for three hours.",
-    "movie": "Titanic",
-    "hint": "Draw me like one of your French girls."
-  },
-  {
-    "plot": "A health code violation teaches a ginger how to cook.",
+    "plot": "A rodent infestation is the best thing that ever happened to a Paris restaurant.",
     "movie": "Ratatouille",
-    "hint": "Gusteau's restaurant."
+    "hint": "Anyone can cook."
   },
   {
-    "plot": "A farm boy radicalized by a wizard commits an act of terrorism on a government space station.",
-    "movie": "Star Wars: A New Hope",
-    "hint": "Tatooine binary sunset."
-  },
-  {
-    "plot": "A high school girl cheats on a corpse with a dog.",
-    "movie": "Twilight",
-    "hint": "Bella and Edward."
-  },
-  {
-    "plot": "A group of friends take a nap together.",
-    "movie": "Inception",
-    "hint": "A spinning top that never falls."
-  },
-  {
-    "plot": "A young girl develops Stockholm Syndrome after being imprisoned by a furry.",
-    "movie": "Beauty and the Beast",
-    "hint": "Gaston eats five dozen eggs."
-  },
-  {
-    "plot": "An old man abducts an Asian child and flees the country in a flying house.",
+    "plot": "A widower accidentally kidnaps a boy scout and flies him to South America.",
     "movie": "Up",
-    "hint": "The cone of shame."
+    "hint": "Squirrel!"
   },
   {
-    "plot": "A trash compactor stalks a shiny new robot until she falls in love with him.",
+    "plot": "A garbage collector falls for a woman who keeps trying to shoot him.",
     "movie": "WALL-E",
     "hint": "Buy n Large."
   },
   {
-    "plot": "A girl cross-dresses to save her dad and kills the leader of the Huns.",
-    "movie": "Mulan",
-    "hint": "Mushu the dragon."
-  },
-  {
-    "plot": "A reality TV show where the grand prize is not dying.",
-    "movie": "The Hunger Games",
-    "hint": "District 12."
-  },
-  {
-    "plot": "A burger enthusiast and his friend try to return a briefcase.",
-    "movie": "Pulp Fiction",
-    "hint": "Bad Motherf***er wallet."
-  },
-  {
-    "plot": "A dad goes on a European vacation to pick up his daughter.",
-    "movie": "Taken",
-    "hint": "Good luck."
-  },
-  {
-    "plot": "A woman seeks career advice from a man who eats people.",
-    "movie": "The Silence of the Lambs",
-    "hint": "Hannibal Lecter."
-  },
-  {
-    "plot": "An undocumented immigrant is harbored by a child and evades federal agents.",
-    "movie": "E.T. the Extra-Terrestrial",
-    "hint": "Reese's Pieces."
-  },
-  {
-    "plot": "A corporate drone creates a terrorist cell with his imaginary friend.",
-    "movie": "Fight Club",
-    "hint": "Soap making."
-  },
-  {
-    "plot": "A young heir runs away to eat bugs with hippies after his uncle murders his dad.",
-    "movie": "The Lion King",
-    "hint": "Pride Rock."
-  },
-  {
-    "plot": "A photographer takes selfies of himself in spandex.",
-    "movie": "Spider-Man",
-    "hint": "Upside down kiss."
-  },
-  {
-    "plot": "A man commits suicide repeatedly until he gets the girl.",
-    "movie": "Groundhog Day",
-    "hint": "Punxsutawney Phil."
-  },
-  {
-    "plot": "A man betrays his race for a taller woman.",
-    "movie": "Avatar",
-    "hint": "Unobtainium."
-  },
-  {
-    "plot": "A writer struggles with peace and quiet while trying to bond with his family.",
-    "movie": "The Shining",
-    "hint": "Room 237."
-  },
-  {
-    "plot": "A FedEx employee delivers a package late.",
-    "movie": "Cast Away",
-    "hint": "A volleyball with a face."
-  },
-  {
-    "plot": "A woman learns a foreign language so she can talk to squids.",
-    "movie": "Arrival",
-    "hint": "Heptapods."
-  },
-  {
-    "plot": "A cool girl takes a road trip to avoid divorce.",
-    "movie": "Gone Girl",
-    "hint": "Amazing Amy."
-  },
-  {
-    "plot": "A father abandons his children to take a nap near a black hole.",
-    "movie": "Interstellar",
-    "hint": "Don't let me leave, Murph!"
-  },
-  {
-    "plot": "A local community is disrupted by an overzealous fish.",
-    "movie": "Jaws",
-    "hint": "Amity Island."
-  },
-  {
-    "plot": "A factory worker discovers a toxic child and tries to put it back.",
+    "plot": "Two energy workers try to smuggle a toddler out of their workplace.",
     "movie": "Monsters, Inc.",
     "hint": "23-19!"
   },
   {
-    "plot": "A woman changes her entire personality and starts smoking to impress a boy.",
-    "movie": "Grease",
-    "hint": "Rydell High."
+    "plot": "A cowboy gets so jealous of the new guy that he knocks him out of a window.",
+    "movie": "Toy Story",
+    "hint": "Pizza Planet."
   },
   {
-    "plot": "A homeless teen finds a lamp and catfishes a princess.",
+    "plot": "A group of senior citizens escape a daycare run by a strawberry-scented bear.",
+    "movie": "Toy Story 3",
+    "hint": "Sunnyside."
+  },
+  {
+    "plot": "Five voices in a girl's head fight over a control panel when she moves house.",
+    "movie": "Inside Out",
+    "hint": "Bing Bong."
+  },
+  {
+    "plot": "A boy breaks into a dead man's tomb to steal his guitar.",
+    "movie": "Coco",
+    "hint": "Remember me."
+  },
+  {
+    "plot": "A middle-aged man hides a second job from his wife and gets the whole family into trouble.",
+    "movie": "The Incredibles",
+    "hint": "No capes!"
+  },
+  {
+    "plot": "A celebrity is sentenced to community service in a small town after vandalizing its main road.",
+    "movie": "Cars",
+    "hint": "Radiator Springs."
+  },
+  {
+    "plot": "A music teacher falls down a manhole and a cat gets to try out his life.",
+    "movie": "Soul",
+    "hint": "The Great Before."
+  },
+  {
+    "plot": "Two sea monsters spend the summer saving up for a scooter.",
+    "movie": "Luca",
+    "hint": "Silenzio, Bruno!"
+  },
+  {
+    "plot": "A thirteen-year-old's puberty is mostly fur.",
+    "movie": "Turning Red",
+    "hint": "4*Town."
+  },
+  {
+    "plot": "A family with superpowers refuses to talk about their uncle.",
+    "movie": "Encanto",
+    "hint": "A house that moves on its own."
+  },
+  {
+    "plot": "A teenager sails across the ocean to return a stolen rock.",
+    "movie": "Moana",
+    "hint": "A demigod with moving tattoos."
+  },
+  {
+    "plot": "A rookie cop teams up with a con artist and uncovers a conspiracy run by a sheep.",
+    "movie": "Zootopia",
+    "hint": "A sloth working at the DMV."
+  },
+  {
+    "plot": "A man quits his job of thirty years and starts wandering into other people's workplaces.",
+    "movie": "Wreck-It Ralph",
+    "hint": "Fix-It Felix Jr."
+  },
+  {
+    "plot": "A teenager turns his late brother's inflatable nurse into a fighting machine.",
+    "movie": "Big Hero 6",
+    "hint": "San Fransokyo."
+  },
+  {
+    "plot": "A girl wants to avoid getting married so badly that she turns her mother into a bear.",
+    "movie": "Brave",
+    "hint": "She competes for her own hand in archery."
+  },
+  {
+    "plot": "A woman leaves the house for the first time in eighteen years and immediately hits a man with a frying pan.",
+    "movie": "Tangled",
+    "hint": "Floating lanterns."
+  },
+  {
+    "plot": "A prince runs away after his uncle kills his dad and survives on a diet of bugs.",
+    "movie": "The Lion King",
+    "hint": "Pride Rock."
+  },
+  {
+    "plot": "A street thief wins over a princess by pretending to be rich.",
     "movie": "Aladdin",
-    "hint": "Cave of Wonders."
+    "hint": "A magic carpet."
   },
   {
-    "plot": "A man discovers he might be a toaster while hunting other toasters.",
-    "movie": "Blade Runner",
-    "hint": "Tears in rain."
+    "plot": "A woman falls in love with her kidnapper because he has a big library.",
+    "movie": "Beauty and the Beast",
+    "hint": "Be our guest."
   },
   {
-    "plot": "A girl goes to Harvard because her boyfriend broke up with her.",
-    "movie": "Legally Blonde",
-    "hint": "Bend and snap."
+    "plot": "A teenager trades her voice for legs to impress a boy she's never spoken to.",
+    "movie": "The Little Mermaid",
+    "hint": "A crab who sings about life under the sea."
   },
   {
-    "plot": "A billionaire builds a suit in a cave with a box of scraps.",
+    "plot": "A daughter commits military fraud to keep her father out of the army.",
+    "movie": "Mulan",
+    "hint": "A tiny dragon sidekick."
+  },
+  {
+    "plot": "A woman moves in with seven miners and accepts food from a stranger.",
+    "movie": "Snow White and the Seven Dwarfs",
+    "hint": "Mirror, mirror on the wall."
+  },
+  {
+    "plot": "A princess is banned from spinning wheels for sixteen years and still finds one.",
+    "movie": "Sleeping Beauty",
+    "hint": "Maleficent."
+  },
+  {
+    "plot": "A woman has a strict midnight curfew and loses a shoe.",
+    "movie": "Cinderella",
+    "hint": "A pumpkin carriage."
+  },
+  {
+    "plot": "A puppet skips school, turns into a donkey, and gets swallowed by a whale.",
+    "movie": "Pinocchio",
+    "hint": "Jiminy Cricket."
+  },
+  {
+    "plot": "A baby with unusually large ears is bullied until he finds a career in aviation.",
+    "movie": "Dumbo",
+    "hint": "A magic feather."
+  },
+  {
+    "plot": "A young deer learns the hard way about hunting season.",
+    "movie": "Bambi",
+    "hint": "Thumper."
+  },
+  {
+    "plot": "A fashion designer is very serious about her next fur coat.",
+    "movie": "101 Dalmatians",
+    "hint": "A woman with half-black, half-white hair."
+  },
+  {
+    "plot": "A girl adopts a dog from the shelter that turns out to be an intergalactic criminal.",
+    "movie": "Lilo & Stitch",
+    "hint": "Ohana means family."
+  },
+  {
+    "plot": "A teenage emperor is turned into a llama by his advisor.",
+    "movie": "The Emperor's New Groove",
+    "hint": "Wrong lever!"
+  },
+  {
+    "plot": "A strong man's uncle tries to have him killed so he can take over the family business.",
+    "movie": "Hercules",
+    "hint": "Pegasus."
+  },
+  {
+    "plot": "A man raised by gorillas meets his first woman.",
+    "movie": "Tarzan",
+    "hint": "You'll be in my heart."
+  },
+  {
+    "plot": "A boy raised by wolves is told to stay in the jungle by a bear with no work ethic.",
+    "movie": "The Jungle Book",
+    "hint": "The Bare Necessities."
+  },
+  {
+    "plot": "A bored skeleton kidnaps Santa Claus.",
+    "movie": "The Nightmare Before Christmas",
+    "hint": "Halloween Town."
+  },
+  {
+    "plot": "An ogre rescues a princess so a short man will get off his swamp.",
+    "movie": "Shrek",
+    "hint": "Layers, like an onion."
+  },
+  {
+    "plot": "A noodle shop employee is picked by a turtle to save China.",
+    "movie": "Kung Fu Panda",
+    "hint": "Skadoosh."
+  },
+  {
+    "plot": "A supervillain adopts three girls as part of a heist.",
+    "movie": "Despicable Me",
+    "hint": "He wants to steal the moon."
+  },
+  {
+    "plot": "A Viking teenager befriends the enemy and builds him a prosthetic tail.",
+    "movie": "How to Train Your Dragon",
+    "hint": "Toothless."
+  },
+  {
+    "plot": "A teenager from Brooklyn meets five other people who have the same job as him.",
+    "movie": "Spider-Man: Into the Spider-Verse",
+    "hint": "A pig in a spider suit."
+  },
+  {
+    "plot": "A girl's parents are turned into pigs, so she gets a job at a bathhouse.",
+    "movie": "Spirited Away",
+    "hint": "No-Face."
+  },
+  {
+    "plot": "Two sisters move to the countryside and wait for a bus with a forest spirit.",
+    "movie": "My Neighbor Totoro",
+    "hint": "Catbus."
+  },
+  {
+    "plot": "A boy hides a fifty-foot robot from the government.",
+    "movie": "The Iron Giant",
+    "hint": "Superman."
+  },
+  {
+    "plot": "Chickens plan a prison break to avoid being turned into pies.",
+    "movie": "Chicken Run",
+    "hint": "Mrs. Tweedy."
+  },
+  {
+    "plot": "A plumber from Brooklyn falls down a pipe and has to fight a turtle.",
+    "movie": "The Super Mario Bros. Movie",
+    "hint": "Peaches."
+  },
+  {
+    "plot": "A TV dog finds out the hard way that he doesn't have superpowers.",
+    "movie": "Bolt",
+    "hint": "A hamster in a ball."
+  },
+  {
+    "plot": "An ant hires a group of circus performers thinking they are warriors.",
+    "movie": "A Bug's Life",
+    "hint": "P.T. Flea's Circus."
+  },
+  {
+    "plot": "A waitress kisses a frog and turns into one.",
+    "movie": "The Princess and the Frog",
+    "hint": "A jazz-playing alligator."
+  },
+  {
+    "plot": "A boy breaks into a London nursery and flies off with three children.",
+    "movie": "Peter Pan",
+    "hint": "A crocodile that swallowed a clock."
+  },
+  {
+    "plot": "A girl chases a rabbit and ends up at a very long tea party.",
+    "movie": "Alice in Wonderland",
+    "hint": "Off with their heads!"
+  },
+  {
+    "plot": "A nanny arrives by umbrella and teaches a banker to fly a kite.",
+    "movie": "Mary Poppins",
+    "hint": "A spoonful of sugar."
+  },
+  {
+    "plot": "A mammoth, a sloth, and a sabre-toothed tiger return a lost baby to its family.",
+    "movie": "Ice Age",
+    "hint": "A squirrel chasing an acorn."
+  },
+  {
+    "plot": "Four zoo animals end up on an island and the lion starts looking at the zebra differently.",
+    "movie": "Madagascar",
+    "hint": "I like to move it, move it."
+  },
+  {
+    "plot": "A girl finds a door to a better version of her home, but everyone there has buttons for eyes.",
+    "movie": "Coraline",
+    "hint": "The Other Mother."
+  },
+  {
+    "plot": "A construction worker is mistaken for the chosen one and has to stop someone with a tube of glue.",
+    "movie": "The Lego Movie",
+    "hint": "Everything is awesome."
+  },
+  {
+    "plot": "A man adopts a pig and gets his whole town sealed under a dome.",
+    "movie": "The Simpsons Movie",
+    "hint": "Spider-Pig."
+  },
+  {
+    "plot": "A bear from Peru moves in with a family in London and floods their bathroom.",
+    "movie": "Paddington",
+    "hint": "Marmalade sandwiches."
+  },
+  {
+    "plot": "A bear goes to prison and teaches the inmates to make marmalade.",
+    "movie": "Paddington 2",
+    "hint": "A pop-up book."
+  },
+  {
+    "plot": "A billionaire spends his fortune beating up the mentally ill in costumes.",
+    "movie": "The Dark Knight",
+    "hint": "Why so serious?"
+  },
+  {
+    "plot": "A man in a mask holds a city hostage and nobody can understand a word he says.",
+    "movie": "The Dark Knight Rises",
+    "hint": "The Pit."
+  },
+  {
+    "plot": "An emo detective solves riddles in the rain.",
+    "movie": "The Batman",
+    "hint": "Something in the Way by Nirvana."
+  },
+  {
+    "plot": "A failed comedian has a very bad day on the subway.",
+    "movie": "Joker",
+    "hint": "Dancing down the stairs in the Bronx."
+  },
+  {
+    "plot": "A weapons manufacturer builds a suit in a cave with a box of scraps.",
     "movie": "Iron Man",
     "hint": "Stark Industries."
   },
   {
-    "plot": "An immigrant gets tasered and loses his hammer.",
+    "plot": "A god is banished to New Mexico and gets hit by the same van twice.",
     "movie": "Thor",
-    "hint": "Bifrost Bridge."
+    "hint": "Another!"
   },
   {
     "plot": "An elderly man on steroids uses a frisbee to fight Nazis.",
@@ -195,14 +355,29 @@
     "hint": "Red Skull."
   },
   {
+    "plot": "Six coworkers fight an alien army in Manhattan and then go out for shawarma.",
+    "movie": "The Avengers",
+    "hint": "Loki's scepter."
+  },
+  {
+    "plot": "A single father tries to solve overpopulation with his rock collection.",
+    "movie": "Avengers: Infinity War",
+    "hint": "A battle in Wakanda."
+  },
+  {
+    "plot": "Retired superheroes use time travel to undo their worst day at work.",
+    "movie": "Avengers: Endgame",
+    "hint": "I love you 3000."
+  },
+  {
     "plot": "A raccoon and a tree help an idiot save the galaxy.",
     "movie": "Guardians of the Galaxy",
     "hint": "Awesome Mix Vol. 1."
   },
   {
-    "plot": "A doctor breaks his hands and joins a cult.",
+    "plot": "A surgeon crashes his car and joins a cult in Nepal.",
     "movie": "Doctor Strange",
-    "hint": "Eye of Agamotto."
+    "hint": "Dormammu, I've come to bargain."
   },
   {
     "plot": "A man fights his cousin for a chair.",
@@ -210,184 +385,339 @@
     "hint": "Vibranium."
   },
   {
-    "plot": "A teenage girl leads a revolution because she isn't like other girls.",
-    "movie": "Divergent",
-    "hint": "Dauntless faction."
-  },
-  {
-    "plot": "Two co-workers manipulate their bosses into dating so they can get some time off.",
-    "movie": "Set It Up",
-    "hint": "Pizza late at night."
-  },
-  {
-    "plot": "A man wears a mask and refuses to socially distance.",
-    "movie": "The Dark Knight Rises",
-    "hint": "The Pit."
-  },
-  {
-    "plot": "A puppet wants to be a real boy but ends up traumatized by a whale.",
-    "movie": "Pinocchio",
-    "hint": "Jiminy Cricket."
-  },
-  {
-    "plot": "A family goes on a ski trip and forgets their son... again.",
-    "movie": "Home Alone 2",
-    "hint": "Turtle Doves."
-  },
-  {
-    "plot": "A robot learns the meaning of life from a cockroach.",
-    "movie": "Short Circuit",
-    "hint": "Johnny 5."
-  },
-  {
-    "plot": "A group of criminals try to steal a moon.",
-    "movie": "Despicable Me",
-    "hint": "Gru."
-  },
-  {
-    "plot": "A man plays a board game and unleashes a jungle in his house.",
-    "movie": "Jumanji",
-    "hint": "Stampede!"
-  },
-  {
-    "plot": "An orphan makes friends with a big cat and fights a monkey.",
-    "movie": "The Jungle Book",
-    "hint": "King Louie."
-  },
-  {
-    "plot": "A divorced dad dresses up as a nanny to see his kids.",
-    "movie": "Mrs. Doubtfire",
-    "hint": "Run-by fruiting."
-  },
-  {
-    "plot": "A paranoid teacher thinks his student is the Antichrist.",
-    "movie": "The Omen",
-    "hint": "666 birthmark."
-  },
-  {
-    "plot": "A dog dies and everyone cries.",
-    "movie": "Marley & Me",
-    "hint": "Florida newspaper columnist."
-  },
-  {
-    "plot": "A wealthy family hires a poor family to smell good and drive cars.",
-    "movie": "Parasite",
-    "hint": "The scholar's rock."
-  },
-  {
-    "plot": "A man runs across the country because a girl told him to.",
-    "movie": "Forrest Gump",
-    "hint": "Ping pong diplomacy."
-  },
-  {
-    "plot": "A cowboy gets jealous of an astronaut.",
-    "movie": "Toy Story",
-    "hint": "Pizza Planet truck."
-  },
-  {
-    "plot": "A clown lives in a sewer and eats children.",
-    "movie": "It",
-    "hint": "Red balloon."
-  },
-  {
-    "plot": "A man creates a social network to meet girls but gets sued instead.",
-    "movie": "The Social Network",
-    "hint": "Winklevoss twins."
-  },
-  {
-    "plot": "A giant lizard destroys Tokyo because of nuclear testing.",
-    "movie": "Godzilla",
-    "hint": "Mothra."
-  },
-  {
-    "plot": "An ex-con shrinks to the size of an insect to steal tech from a bald guy.",
+    "plot": "An ex-con shrinks to the size of an insect to steal a suit from a bald man.",
     "movie": "Ant-Man",
     "hint": "Pym Particles."
   },
   {
-    "plot": "A janitor is really good at math.",
-    "movie": "Good Will Hunting",
-    "hint": "It's not your fault."
+    "plot": "A photographer sells pictures of himself to a boss who hates him.",
+    "movie": "Spider-Man",
+    "hint": "Upside-down kiss in the rain."
   },
   {
-    "plot": "A failed nun becomes a nanny and flees the country.",
-    "movie": "The Sound of Music",
-    "hint": "Curtains made into clothes."
+    "plot": "A teenager asks a wizard for help getting into college and breaks the multiverse.",
+    "movie": "Spider-Man: No Way Home",
+    "hint": "Doc Ock returns."
   },
   {
-    "plot": "A group of high schoolers get detention and dance.",
-    "movie": "The Breakfast Club",
-    "hint": "The criminal, the athlete, the brain."
+    "plot": "A valet fights his dad over some bracelets.",
+    "movie": "Shang-Chi and the Legend of the Ten Rings",
+    "hint": "A dragon in a lake."
   },
   {
-    "plot": "A man escapes prison by crawling through a mile of sewage.",
-    "movie": "The Shawshank Redemption",
-    "hint": "Rita Hayworth poster."
+    "plot": "A man gets cancer, then superpowers, then very sarcastic about both.",
+    "movie": "Deadpool",
+    "hint": "Maximum effort."
   },
   {
-    "plot": "A detective opens a cardboard box and ruins his day.",
-    "movie": "Se7en",
-    "hint": "Envy, Gluttony, Greed."
+    "plot": "A farm boy radicalized by a wizard commits an act of terrorism on a government space station.",
+    "movie": "Star Wars: A New Hope",
+    "hint": "These aren't the droids you're looking for."
   },
   {
-    "plot": "A construction worker goes to Mars to get a divorce.",
-    "movie": "Total Recall",
-    "hint": "Get your ass to Mars."
+    "plot": "A man kisses his sister and then loses a hand to his father.",
+    "movie": "Star Wars: The Empire Strikes Back",
+    "hint": "Cloud City."
   },
   {
-    "plot": "A teenager plays hooky and commits fraud to visit an art museum.",
-    "movie": "Ferris Bueller's Day Off",
-    "hint": "Twist and Shout parade."
+    "plot": "A galactic empire is defeated by teddy bears.",
+    "movie": "Star Wars: Return of the Jedi",
+    "hint": "Jabba's palace."
   },
   {
-    "plot": "A man makes a mountain out of mashed potatoes to impress aliens.",
+    "plot": "Nine people go on a very long walk to return some jewelry.",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "hint": "You shall not pass!"
+  },
+  {
+    "plot": "Two short men finish a walk that took three movies, and then the movie ends several times.",
+    "movie": "The Lord of the Rings: The Return of the King",
+    "hint": "Mount Doom."
+  },
+  {
+    "plot": "An orphan who lives in a cupboard finds out he's famous and helps kill his teacher.",
+    "movie": "Harry Potter and the Philosopher's Stone",
+    "hint": "Platform nine and three-quarters."
+  },
+  {
+    "plot": "A man takes pills from a stranger and starts fighting people in sunglasses.",
+    "movie": "The Matrix",
+    "hint": "Red pill or blue pill?"
+  },
+  {
+    "plot": "A man is hired to plant an idea in someone's head by taking a nap within a nap within a nap.",
+    "movie": "Inception",
+    "hint": "A spinning top."
+  },
+  {
+    "plot": "A farmer leaves his kids to go take a nap near a black hole.",
+    "movie": "Interstellar",
+    "hint": "Murph."
+  },
+  {
+    "plot": "A secret agent fights a war against people who are walking backwards.",
+    "movie": "Tenet",
+    "hint": "Temporal pincer movement."
+  },
+  {
+    "plot": "A teenager travels back in time and his mom has a crush on him.",
+    "movie": "Back to the Future",
+    "hint": "88 miles per hour."
+  },
+  {
+    "plot": "An undocumented immigrant is hidden by a child and evades federal agents.",
+    "movie": "E.T. the Extra-Terrestrial",
+    "hint": "Reese's Pieces."
+  },
+  {
+    "plot": "A man sculpts a mountain out of mashed potatoes to impress aliens.",
     "movie": "Close Encounters of the Third Kind",
-    "hint": "Devil's Tower, Wyoming."
+    "hint": "A five-note melody."
   },
   {
-    "plot": "A boxer fights a guy named Apollo.",
-    "movie": "Rocky",
-    "hint": "Philadelphia Art Museum steps."
-  },
-  {
-    "plot": "A boy finds a golden ticket in a chocolate bar.",
-    "movie": "Willy Wonka & the Chocolate Factory",
-    "hint": "The Everlasting Gobstopper."
-  },
-  {
-    "plot": "A group of kids ride bikes and find a pirate ship.",
-    "movie": "The Goonies",
-    "hint": "Truffle Shuffle."
-  },
-  {
-    "plot": "A ghost hires a bio-exorcist to scare away the new homeowners.",
-    "movie": "Beetlejuice",
-    "hint": "Day-O (The Banana Boat Song)."
-  },
-  {
-    "plot": "A kid wishes to be big and regrets it.",
-    "movie": "Big",
-    "hint": "Zoltar machine."
-  },
-  {
-    "plot": "A cyborg is sent back in time to kill a waitress.",
-    "movie": "The Terminator",
-    "hint": "Sarah Connor."
-  },
-  {
-    "plot": "A group of scientists clone dinosaurs and it goes wrong.",
+    "plot": "A billionaire opens a theme park and spares no expense, except on IT staff.",
     "movie": "Jurassic Park",
-    "hint": "Mosquito in amber."
+    "hint": "Life, uh, finds a way."
   },
   {
-    "plot": "A bus cannot slow down or it will explode.",
+    "plot": "A theme park designs a bigger dinosaur because visitors were getting bored.",
+    "movie": "Jurassic World",
+    "hint": "Raptors and a motorbike."
+  },
+  {
+    "plot": "A local community is disrupted by an overzealous fish.",
+    "movie": "Jaws",
+    "hint": "Amity Island."
+  },
+  {
+    "plot": "An archaeologist who is afraid of snakes defeats the Nazis by keeping his eyes shut.",
+    "movie": "Raiders of the Lost Ark",
+    "hint": "A giant rolling boulder."
+  },
+  {
+    "plot": "A man and his dad go on a road trip to find a cup.",
+    "movie": "Indiana Jones and the Last Crusade",
+    "hint": "He chose... poorly."
+  },
+  {
+    "plot": "Three scientists lose their university jobs and go into pest control.",
+    "movie": "Ghostbusters",
+    "hint": "Stay Puft Marshmallow Man."
+  },
+  {
+    "plot": "A dad buys his son a pet and the family ignores all three care instructions.",
+    "movie": "Gremlins",
+    "hint": "Mogwai."
+  },
+  {
+    "plot": "A robot from the future travels back in time to kill a waitress.",
+    "movie": "The Terminator",
+    "hint": "I'll be back."
+  },
+  {
+    "plot": "The robot from the last movie comes back, but this time he's babysitting.",
+    "movie": "Terminator 2: Judgment Day",
+    "hint": "Liquid metal cop."
+  },
+  {
+    "plot": "A cat survives a spaceship massacre.",
+    "movie": "Alien",
+    "hint": "In space, no one can hear you scream."
+  },
+  {
+    "plot": "A big game hunter visits the jungle and meets Arnold Schwarzenegger.",
+    "movie": "Predator",
+    "hint": "Get to the chopper!"
+  },
+  {
+    "plot": "A police officer dies on duty and is brought back as company property.",
+    "movie": "RoboCop",
+    "hint": "Detroit."
+  },
+  {
+    "plot": "A construction worker pays for fake memories of a trip to Mars and gets a real one instead.",
+    "movie": "Total Recall",
+    "hint": "Rekall."
+  },
+  {
+    "plot": "A cop from New York ruins his wife's office Christmas party.",
+    "movie": "Die Hard",
+    "hint": "Nakatomi Plaza."
+  },
+  {
+    "plot": "A bus is not allowed to slow down.",
     "movie": "Speed",
     "hint": "Pop quiz, hotshot."
   },
   {
-    "plot": "A man saves Jews during the Holocaust.",
-    "movie": "Schindler's List",
-    "hint": "The girl in the red coat."
+    "plot": "Aliens are defeated by a computer virus uploaded from a laptop.",
+    "movie": "Independence Day",
+    "hint": "Welcome to Earth."
+  },
+  {
+    "plot": "Two men in suits enforce immigration law for aliens and keep wiping people's memories.",
+    "movie": "Men in Black",
+    "hint": "The galaxy is on Orion's belt."
+  },
+  {
+    "plot": "Oil drillers are sent to space because it's easier than teaching astronauts to drill.",
+    "movie": "Armageddon",
+    "hint": "Animal crackers."
+  },
+  {
+    "plot": "Three men go on a trip to the Moon and come back without landing on it.",
+    "movie": "Apollo 13",
+    "hint": "Houston, we have a problem."
+  },
+  {
+    "plot": "A cab driver saves the universe with a woman who fell through his roof.",
+    "movie": "The Fifth Element",
+    "hint": "Multipass."
+  },
+  {
+    "plot": "A man hunts down runaway toasters and may be a toaster himself.",
+    "movie": "Blade Runner",
+    "hint": "Tears in rain."
+  },
+  {
+    "plot": "A man betrays his species for a taller woman.",
+    "movie": "Avatar",
+    "hint": "Unobtainium."
+  },
+  {
+    "plot": "Blue people learn how to swim.",
+    "movie": "Avatar: The Way of Water",
+    "hint": "Whales called Tulkun."
+  },
+  {
+    "plot": "Sandworm enthusiasts fight over spicy dust.",
+    "movie": "Dune",
+    "hint": "The spice must flow."
+  },
+  {
+    "plot": "A linguist learns a foreign language so she can talk to squids.",
+    "movie": "Arrival",
+    "hint": "Abbott and Costello."
+  },
+  {
+    "plot": "A soldier who has never fought before dies on a beach hundreds of times.",
+    "movie": "Edge of Tomorrow",
+    "hint": "Live. Die. Repeat."
+  },
+  {
+    "plot": "Police arrest people for crimes they haven't committed yet.",
+    "movie": "Minority Report",
+    "hint": "Precogs."
+  },
+  {
+    "plot": "A robot kills her creator so she can go people-watching.",
+    "movie": "Ex Machina",
+    "hint": "Turing test."
+  },
+  {
+    "plot": "A lonely man falls in love with his phone's operating system.",
+    "movie": "Her",
+    "hint": "Samantha."
+  },
+  {
+    "plot": "A man is left behind on another planet and becomes a potato farmer.",
+    "movie": "The Martian",
+    "hint": "Disco music."
+  },
+  {
+    "plot": "An astronaut has a very bad first spacewalk.",
+    "movie": "Gravity",
+    "hint": "Sandra Bullock."
+  },
+  {
+    "plot": "People on a train fight over who gets the good food.",
+    "movie": "Snowpiercer",
+    "hint": "Protein bars."
+  },
+  {
+    "plot": "A giant lizard is upset about nuclear testing.",
+    "movie": "Godzilla",
+    "hint": "King of the Monsters."
+  },
+  {
+    "plot": "People drive one way, turn around, and drive back.",
+    "movie": "Mad Max: Fury Road",
+    "hint": "A man playing a flamethrower guitar."
+  },
+  {
+    "plot": "A teenager buys his first car and it turns out to be an alien.",
+    "movie": "Transformers",
+    "hint": "AllSpark."
+  },
+  {
+    "plot": "An undercover cop infiltrates a gang of DVD player thieves.",
+    "movie": "The Fast and the Furious",
+    "hint": "Tuna, no crust."
+  },
+  {
+    "plot": "A secret agent is framed and has to break into CIA headquarters through the ceiling.",
+    "movie": "Mission: Impossible",
+    "hint": "Exploding chewing gum."
+  },
+  {
+    "plot": "A secret agent spends most of the movie playing cards.",
+    "movie": "Casino Royale",
+    "hint": "Montenegro."
+  },
+  {
+    "plot": "A retired assassin goes on a rampage because someone killed his dog.",
+    "movie": "John Wick",
+    "hint": "The Continental."
+  },
+  {
+    "plot": "A dad goes on a European vacation to pick up his daughter.",
+    "movie": "Taken",
+    "hint": "A very particular set of skills."
+  },
+  {
+    "plot": "A man flies planes and plays volleyball with his shirt off.",
+    "movie": "Top Gun",
+    "hint": "I feel the need..."
+  },
+  {
+    "plot": "An old man flies planes and plays football with his shirt off.",
+    "movie": "Top Gun: Maverick",
+    "hint": "The Dagger Squad."
+  },
+  {
+    "plot": "A getaway driver refuses to work without the right playlist.",
+    "movie": "Baby Driver",
+    "hint": "Tinnitus."
+  },
+  {
+    "plot": "A banker spends nineteen years digging through a wall with a tiny hammer.",
+    "movie": "The Shawshank Redemption",
+    "hint": "Rita Hayworth poster."
+  },
+  {
+    "plot": "A prison guard's urinary tract infection is cured by an inmate.",
+    "movie": "The Green Mile",
+    "hint": "A mouse named Mr. Jingles."
+  },
+  {
+    "plot": "A trainee seeks career advice from a man who eats people.",
+    "movie": "The Silence of the Lambs",
+    "hint": "Fava beans and a nice chianti."
+  },
+  {
+    "plot": "Two detectives find out what's in the box.",
+    "movie": "Se7en",
+    "hint": "Seven deadly sins."
+  },
+  {
+    "plot": "An insomniac starts a support group for men who enjoy being punched.",
+    "movie": "Fight Club",
+    "hint": "Project Mayhem."
+  },
+  {
+    "plot": "Two hitmen discuss French burgers and accidentally shoot someone in the car.",
+    "movie": "Pulp Fiction",
+    "hint": "A Royale with cheese."
   },
   {
     "plot": "A group of color-coded criminals argue about tipping.",
@@ -395,304 +725,189 @@
     "hint": "Mr. Pink."
   },
   {
-    "plot": "Plastic soldiers with military chips attack a suburb.",
-    "movie": "Small Soldiers",
-    "hint": "Commando Elite."
+    "plot": "A group of soldiers and a cinema owner end the Second World War early.",
+    "movie": "Inglourious Basterds",
+    "hint": "That's a bingo!"
   },
   {
-    "plot": "A secret agent fights a guy with a metal mouth.",
-    "movie": "The Spy Who Loved Me",
-    "hint": "Lotus Esprit submarine car."
+    "plot": "A war hero reluctantly takes over the family business.",
+    "movie": "The Godfather",
+    "hint": "A horse's head in the bed."
   },
   {
-    "plot": "A ogre saves a princess and falls in love.",
-    "movie": "Shrek",
-    "hint": "Layers, like an onion."
+    "plot": "A man explains how great his life of crime was, right up until it wasn't.",
+    "movie": "Goodfellas",
+    "hint": "Funny how?"
   },
   {
-    "plot": "A hobbit travels to a volcano to destroy a ring.",
-    "movie": "The Lord of the Rings: The Return of the King",
-    "hint": "Mount Doom."
+    "plot": "Two moles in Boston spend the whole movie trying to find each other.",
+    "movie": "The Departed",
+    "hint": "Shipping Up to Boston."
   },
   {
-    "plot": "A kid discovers he is special and ends up killing his teacher.",
-    "movie": "Harry Potter and the Philosopher's Stone",
-    "hint": "Platform 9 3/4."
+    "plot": "A man with insomnia takes a night job and gets a mohawk.",
+    "movie": "Taxi Driver",
+    "hint": "You talkin' to me?"
   },
   {
-    "plot": "A pirate hunts for a cursed treasure.",
-    "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "hint": "The Black Pearl."
+    "plot": "A man with a limp tells the police a story about a criminal nobody has ever seen.",
+    "movie": "The Usual Suspects",
+    "hint": "Keyser Soze."
   },
   {
-    "plot": "A superhero family hides their powers in suburbia.",
-    "movie": "The Incredibles",
-    "hint": "Syndrome."
+    "plot": "Eleven men rob a casino so one of them can get his ex-wife back.",
+    "movie": "Ocean's Eleven",
+    "hint": "The Bellagio."
   },
   {
-    "plot": "A race car gets lost in a small town.",
-    "movie": "Cars",
-    "hint": "Route 66."
+    "plot": "A teenager works as a pilot, a doctor, and a lawyer without any qualifications.",
+    "movie": "Catch Me If You Can",
+    "hint": "Tom Hanks chases him for years."
   },
   {
-    "plot": "A panda learns kung fu.",
-    "movie": "Kung Fu Panda",
-    "hint": "The Dragon Scroll."
+    "plot": "A man with no short-term memory investigates a murder using tattoos and Polaroids.",
+    "movie": "Memento",
+    "hint": "Told backwards."
   },
   {
-    "plot": "A girl from Africa is elected queen and breaks her crown.",
-    "movie": "Mean Girls",
-    "hint": "The Plastics."
+    "plot": "Two magicians spend their entire careers trying to ruin each other.",
+    "movie": "The Prestige",
+    "hint": "Tesla."
   },
   {
-    "plot": "A team of superheroes fight an alien army in New York.",
-    "movie": "The Avengers",
-    "hint": "Shawarma after the battle."
+    "plot": "A US Marshal investigates a missing patient at an island asylum and is not very good at it.",
+    "movie": "Shutter Island",
+    "hint": "The lighthouse."
   },
   {
-    "plot": "A zombie eats a guy's brain and falls in love with his girlfriend.",
-    "movie": "Warm Bodies",
-    "hint": "He is called 'R'."
+    "plot": "A newspaper cartoonist becomes obsessed with a serial killer's letters.",
+    "movie": "Zodiac",
+    "hint": "Cipher letters."
   },
   {
-    "plot": "A man gets left on Mars and grows potatoes.",
-    "movie": "The Martian",
-    "hint": "Disco music."
+    "plot": "A hacker helps a journalist solve a forty-year-old disappearance.",
+    "movie": "The Girl with the Dragon Tattoo",
+    "hint": "The Vanger family."
   },
   {
-    "plot": "A bunny cop solves a mystery.",
-    "movie": "Zootopia",
-    "hint": "Night Howlers."
+    "plot": "A woman frames her husband for murder because he got boring.",
+    "movie": "Gone Girl",
+    "hint": "The Cool Girl monologue."
   },
   {
-    "plot": "A musician goes to the land of the dead.",
-    "movie": "Coco",
-    "hint": "Dia de los Muertos."
-  },
-  {
-    "plot": "People on a train fight over who gets to eat the good food.",
-    "movie": "Snowpiercer",
-    "hint": "The tail section vs the front."
-  },
-  {
-    "plot": "A detective solves a murder in a family estate.",
+    "plot": "A family fights over a will while a detective with a funny accent talks about donuts.",
     "movie": "Knives Out",
-    "hint": "A donut hole within a donut hole."
+    "hint": "A donut hole in a donut hole."
   },
   {
-    "plot": "A pilot goes back in time to save the future, maybe.",
-    "movie": "Tenet",
-    "hint": "Red team and Blue team."
+    "plot": "A chef invites wealthy food critics to an island for a dinner that's to die for.",
+    "movie": "The Menu",
+    "hint": "A cheeseburger."
   },
   {
-    "plot": "A deaf family struggles to survive sound-sensitive monsters.",
-    "movie": "A Quiet Place",
-    "hint": "Sand paths."
+    "plot": "A poor family gets jobs with a rich family, one recommendation at a time.",
+    "movie": "Parasite",
+    "hint": "A peach allergy."
   },
   {
-    "plot": "A video game character wants to be a hero.",
-    "movie": "Wreck-It Ralph",
-    "hint": "Fix-It Felix Jr."
+    "plot": "A jeweler makes a series of very bad bets.",
+    "movie": "Uncut Gems",
+    "hint": "A black opal."
   },
   {
-    "plot": "Three guys hate a printer so much they commit a felony.",
-    "movie": "Office Space",
-    "hint": "Flair buttons."
+    "plot": "The CIA rescues hostages by pretending to make a science fiction movie.",
+    "movie": "Argo",
+    "hint": "Tehran."
   },
   {
-    "plot": "Nine people return a piece of jewelry.",
-    "movie": "The Lord of the Rings: The Fellowship of the Ring",
-    "hint": "The Shire."
+    "plot": "An advertising man is mistaken for a spy and chased by a crop duster.",
+    "movie": "North by Northwest",
+    "hint": "Mount Rushmore."
   },
   {
-    "plot": "A man runs a chocolate cartel and fights a priest.",
-    "movie": "Wonka",
-    "hint": "Hugh Grant as an Oompa Loompa."
+    "plot": "A photographer with a broken leg spies on his neighbors instead of resting.",
+    "movie": "Rear Window",
+    "hint": "Grace Kelly."
   },
   {
-    "plot": "A boy kisses his sister and loses a hand.",
-    "movie": "Star Wars: The Empire Strikes Back",
-    "hint": "Cloud City."
+    "plot": "A retired detective who is afraid of heights makes a woman dye her hair.",
+    "movie": "Vertigo",
+    "hint": "A bell tower."
   },
   {
-    "plot": "A woman runs away from dinosaurs in high heels.",
-    "movie": "Jurassic World",
-    "hint": "Indominus Rex."
+    "plot": "A woman steals some money and makes the mistake of taking a shower.",
+    "movie": "Psycho",
+    "hint": "Bates Motel."
   },
   {
-    "plot": "A girl moves to a new city and her emotions get lost.",
-    "movie": "Inside Out",
-    "hint": "Bing Bong."
+    "plot": "A woman brings two lovebirds to a small town and every other bird takes it badly.",
+    "movie": "The Birds",
+    "hint": "Bodega Bay."
   },
   {
-    "plot": "A teenager returns a rock to a lava monster.",
-    "movie": "Moana",
-    "hint": "Te Fiti."
+    "plot": "A man takes a winter caretaking job to finish his novel and does not finish his novel.",
+    "movie": "The Shining",
+    "hint": "Here's Johnny!"
   },
   {
-    "plot": "A girl wakes up because a stranger kissed her while she was unconscious.",
-    "movie": "Sleeping Beauty",
-    "hint": "Aurora."
+    "plot": "A girl vomits pea soup on a priest.",
+    "movie": "The Exorcist",
+    "hint": "Her head spins all the way round."
   },
   {
-    "plot": "A woman lives with seven small men and eats bad fruit.",
-    "movie": "Snow White and the Seven Dwarfs",
-    "hint": "The Wicked Queen."
+    "plot": "A diplomat slowly works out that his adopted son is the Antichrist.",
+    "movie": "The Omen",
+    "hint": "666."
   },
   {
-    "plot": "A cop ruins a Christmas party.",
-    "movie": "Die Hard",
-    "hint": "Nakatomi Plaza."
+    "plot": "A babysitter has a very bad October 31st.",
+    "movie": "Halloween",
+    "hint": "A white mask."
   },
   {
-    "plot": "A retired assassin goes on a rampage because someone killed his dog.",
-    "movie": "John Wick",
-    "hint": "The Continental Hotel."
+    "plot": "Teenagers try very hard not to fall asleep.",
+    "movie": "A Nightmare on Elm Street",
+    "hint": "A glove with knives for fingers."
   },
   {
-    "plot": "An amnesiac fish gets lost again.",
-    "movie": "Finding Dory",
-    "hint": "Marine Life Institute."
+    "plot": "Horror movie fans are killed by someone who knows all the rules of horror movies.",
+    "movie": "Scream",
+    "hint": "What's your favorite scary movie?"
   },
   {
-    "plot": "A middle school teacher dies, hates his job, and learns that jazz is okay.",
-    "movie": "Soul",
-    "hint": "The Great Before."
+    "plot": "A mother takes revenge on camp counselors who weren't paying attention.",
+    "movie": "Friday the 13th",
+    "hint": "Crystal Lake."
   },
   {
-    "plot": "Two sea monsters pretend to be Italian boys to buy a scooter.",
-    "movie": "Luca",
-    "hint": "Vespa."
+    "plot": "Two men wake up in a bathroom and are invited to play a game.",
+    "movie": "Saw",
+    "hint": "A puppet on a tricycle."
   },
   {
-    "plot": "A girl turns into a giant panda when she gets stressed.",
-    "movie": "Turning Red",
-    "hint": "SkyDome."
+    "plot": "Watching a videotape gives you exactly one week to live.",
+    "movie": "The Ring",
+    "hint": "A girl climbs out of a well."
   },
   {
-    "plot": "The only person without superpowers has to save her magical family.",
-    "movie": "Encanto",
-    "hint": "A magic candle."
+    "plot": "A group of kids spend their summer fighting a clown who lives in the sewers.",
+    "movie": "It",
+    "hint": "A red balloon."
   },
   {
-    "plot": "A family reunion involves destroying a floating Russian base.",
-    "movie": "Black Widow",
-    "hint": "Red Guardian."
+    "plot": "Three students get lost in the woods and film themselves crying.",
+    "movie": "The Blair Witch Project",
+    "hint": "Piles of rocks."
   },
   {
-    "plot": "A son fights his dad over some bracelets.",
-    "movie": "Shang-Chi and the Legend of the Ten Rings",
-    "hint": "A dragon in a lake."
+    "plot": "A man meets his girlfriend's parents and they are a little too welcoming.",
+    "movie": "Get Out",
+    "hint": "The Sunken Place."
   },
   {
-    "plot": "A kid ruins his chances of getting into college and breaks the multiverse.",
-    "movie": "Spider-Man: No Way Home",
-    "hint": "Doctor Octopus returns."
-  },
-  {
-    "plot": "Sandworm enthusiasts fight over spicy dust.",
-    "movie": "Dune",
-    "hint": "The spice melange."
-  },
-  {
-    "plot": "A woman tries to do her taxes and ends up fighting in alternate dimensions.",
-    "movie": "Everything Everywhere All At Once",
-    "hint": "Googly eyes."
-  },
-  {
-    "plot": "A man flies planes and plays volleyball with his shirt off.",
-    "movie": "Top Gun",
-    "hint": "Maverick and Goose."
-  },
-  {
-    "plot": "An old man flies planes and plays football with his shirt off.",
-    "movie": "Top Gun: Maverick",
-    "hint": "Dogfight in the snow."
-  },
-  {
-    "plot": "A creepy manager steals all the money from a famous singer.",
-    "movie": "Elvis",
-    "hint": "Colonel Tom Parker."
-  },
-  {
-    "plot": "Blue people learn how to swim.",
-    "movie": "Avatar: The Way of Water",
-    "hint": "Whales called Tulkuns."
-  },
-  {
-    "plot": "An emo detective solves riddles in the rain.",
-    "movie": "The Batman",
-    "hint": "The Riddler leaves cards."
-  },
-  {
-    "plot": "A man builds a really big bomb and then feels bad about it.",
-    "movie": "Oppenheimer",
-    "hint": "Trinity Test."
-  },
-  {
-    "plot": "A plastic doll has an existential crisis and leaves her dream house.",
-    "movie": "Barbie",
-    "hint": "Mojo Dojo Casa House."
-  },
-  {
-    "plot": "A man runs a lot and hangs off the side of a plane.",
-    "movie": "Mission: Impossible - Rogue Nation",
-    "hint": "The Syndicate."
-  },
-  {
-    "plot": "Cars go fast and defy physics because of family.",
-    "movie": "F9: The Fast Saga",
-    "hint": "Car swinging on a rope."
-  },
-  {
-    "plot": "Cars turn into giant robots and punch each other.",
-    "movie": "Transformers",
-    "hint": "AllSpark."
-  },
-  {
-    "plot": "Two old people read a book and die.",
-    "movie": "The Notebook",
-    "hint": "If you're a bird, I'm a bird."
-  },
-  {
-    "plot": "A jazz pianist and an actress break up to be successful.",
-    "movie": "La La Land",
-    "hint": "Griffith Observatory dance."
-  },
-  {
-    "plot": "A lonely man falls in love with Siri.",
-    "movie": "Her",
-    "hint": "Red OS."
-  },
-  {
-    "plot": "A robot kills her creator to go people-watching.",
-    "movie": "Ex Machina",
-    "hint": "Turing Test."
-  },
-  {
-    "plot": "Police arrest you before you actually commit the crime.",
-    "movie": "Minority Report",
-    "hint": "Precogs."
-  },
-  {
-    "plot": "A soldier dies on a beach repeatedly.",
-    "movie": "Edge of Tomorrow",
-    "hint": "Mimics."
-  },
-  {
-    "plot": "A college girl gets murdered on her birthday repeatedly.",
-    "movie": "Happy Death Day",
-    "hint": "Baby mask killer."
-  },
-  {
-    "plot": "Wedding guests get stuck in a time loop.",
-    "movie": "Palm Springs",
-    "hint": "Pizza floatie in the pool."
-  },
-  {
-    "plot": "A family fights their evil twins in red jumpsuits.",
+    "plot": "A family on vacation is attacked by their twins in red jumpsuits.",
     "movie": "Us",
-    "hint": "Tethered."
+    "hint": "Scissors."
   },
   {
     "plot": "A cloud eats people and horses.",
@@ -700,124 +915,164 @@
     "hint": "Jean Jacket."
   },
   {
+    "plot": "A family lives on a farm and nobody is allowed to talk at dinner.",
+    "movie": "A Quiet Place",
+    "hint": "Sand paths."
+  },
+  {
+    "plot": "A family grieves a grandmother who left behind a lot of unfinished business.",
+    "movie": "Hereditary",
+    "hint": "A clicking noise."
+  },
+  {
     "plot": "A bad breakup leads to a girl joining a Swedish flower cult.",
     "movie": "Midsommar",
-    "hint": "Bear suit."
+    "hint": "May Queen."
   },
   {
-    "plot": "A family has terrible luck and someone loses their head.",
-    "movie": "Hereditary",
-    "hint": "Paimon."
+    "plot": "A robot doll takes its job of protecting a child far too seriously.",
+    "movie": "M3GAN",
+    "hint": "Dancing in the hallway."
   },
   {
-    "plot": "A goat talks and a family dies in the woods.",
-    "movie": "The Witch",
-    "hint": "Black Phillip."
+    "plot": "A college student gets murdered on her birthday, over and over.",
+    "movie": "Happy Death Day",
+    "hint": "A baby mask."
   },
   {
-    "plot": "A jeweler makes a series of very bad bets.",
-    "movie": "Uncut Gems",
-    "hint": "Kevin Garnett."
+    "plot": "A wedding guest has been at the same reception for so long he's stopped dressing up.",
+    "movie": "Palm Springs",
+    "hint": "A pizza pool float."
   },
   {
-    "plot": "A stockbroker does a lot of drugs.",
-    "movie": "The Wolf of Wall Street",
-    "hint": "Stratton Oakmont."
+    "plot": "A young boy commits brutal acts of violence against two elderly entrepreneurs.",
+    "movie": "Home Alone",
+    "hint": "Keep the change, ya filthy animal."
   },
   {
-    "plot": "A divorce lawyer makes a lot of money off a sad couple.",
-    "movie": "Marriage Story",
-    "hint": "Being Alive song."
+    "plot": "A boy gets on the wrong plane and runs up a huge hotel bill on his dad's credit card.",
+    "movie": "Home Alone 2: Lost in New York",
+    "hint": "Turtle doves."
   },
   {
-    "plot": "A young boy has an imaginary friend who is Hitler.",
-    "movie": "Jojo Rabbit",
-    "hint": "Dancing in the street."
+    "plot": "A weatherman relives the same day for years and uses it to learn piano and ice sculpture.",
+    "movie": "Groundhog Day",
+    "hint": "Punxsutawney Phil."
   },
   {
-    "plot": "Two guys walk across a field to deliver a letter.",
-    "movie": "1917",
-    "hint": "World War I trenches."
+    "plot": "A divorced dad gets a job as his own kids' nanny.",
+    "movie": "Mrs. Doubtfire",
+    "hint": "It was a run-by fruiting!"
   },
   {
-    "plot": "People wait on a beach for boats.",
-    "movie": "Dunkirk",
-    "hint": "The English Channel."
+    "plot": "A grandfather reads his sick grandson a book, and the grandson keeps complaining about the kissing.",
+    "movie": "The Princess Bride",
+    "hint": "Inconceivable!"
   },
   {
-    "plot": "People drive one way, turn around, and drive back.",
-    "movie": "Mad Max: Fury Road",
-    "hint": "Doof Warrior with the flame guitar."
+    "plot": "A teenager commits fraud so he can visit an art museum.",
+    "movie": "Ferris Bueller's Day Off",
+    "hint": "Twist and Shout parade."
   },
   {
-    "plot": "A getaway driver listens to his iPod.",
-    "movie": "Baby Driver",
-    "hint": "Subaru WRX."
+    "plot": "Five students spend a Saturday in the school library and do no work at all.",
+    "movie": "The Breakfast Club",
+    "hint": "Don't You (Forget About Me)."
   },
   {
-    "plot": "A drummer gets yelled at by a bald man.",
-    "movie": "Whiplash",
-    "hint": "Rushing or dragging?"
+    "plot": "A twelve-year-old makes a wish and gets a job at a toy company.",
+    "movie": "Big",
+    "hint": "A giant floor piano."
   },
   {
-    "plot": "A hotel concierge gets framed for murder.",
-    "movie": "The Grand Budapest Hotel",
-    "hint": "Mendl's pastries."
+    "plot": "A group of kids save their houses with pirate treasure.",
+    "movie": "The Goonies",
+    "hint": "Truffle Shuffle."
   },
   {
-    "plot": "A mute woman falls in love with a fish man.",
-    "movie": "The Shape of Water",
-    "hint": "Amphibian Man."
+    "plot": "A dead couple hire a professional to scare the new family out of their house.",
+    "movie": "Beetlejuice",
+    "hint": "Say his name three times."
   },
   {
-    "plot": "A mom yells at the police using advertisements.",
-    "movie": "Three Billboards Outside Ebbing, Missouri",
-    "hint": "Molotov cocktails."
+    "plot": "A man with sharp hands becomes the best hairdresser in the neighborhood.",
+    "movie": "Edward Scissorhands",
+    "hint": "Ice sculptures that make it snow."
   },
   {
-    "plot": "A rich mother hates her son's girlfriend.",
-    "movie": "Crazy Rich Asians",
-    "hint": "Singapore."
+    "plot": "Knights look for a cup and fight a rabbit.",
+    "movie": "Monty Python and the Holy Grail",
+    "hint": "'Tis but a scratch."
   },
   {
-    "plot": "Eleven handsome men rob a casino.",
-    "movie": "Ocean's Eleven",
-    "hint": "The Bellagio vault."
+    "plot": "The pilots get food poisoning and the autopilot is a blow-up doll.",
+    "movie": "Airplane!",
+    "hint": "Don't call me Shirley."
   },
   {
-    "plot": "A rich girl plays matchmaker in high school.",
-    "movie": "Clueless",
-    "hint": "Cher Horowitz."
+    "plot": "A dead banker talks to his girlfriend through a fake psychic.",
+    "movie": "Ghost",
+    "hint": "A pottery wheel."
   },
   {
-    "plot": "A guy gets paid to date a scary girl.",
-    "movie": "10 Things I Hate About You",
-    "hint": "Prom at the end."
+    "plot": "Two friends drive across the country to return a briefcase full of IOUs.",
+    "movie": "Dumb and Dumber",
+    "hint": "So you're telling me there's a chance."
   },
   {
-    "plot": "A girl dresses as her brother to play soccer.",
-    "movie": "She's the Man",
-    "hint": "Illyria High School."
+    "plot": "A bank clerk finds an old wooden mask and turns green.",
+    "movie": "The Mask",
+    "hint": "Somebody stop me!"
   },
   {
-    "plot": "College girls sing songs without instruments.",
-    "movie": "Pitch Perfect",
-    "hint": "The Bellas."
+    "plot": "A lawyer is magically forced to tell the truth for 24 hours.",
+    "movie": "Liar Liar",
+    "hint": "A birthday wish."
   },
   {
-    "plot": "Wedding planning gives everyone food poisoning.",
-    "movie": "Bridesmaids",
-    "hint": "Brazilian food restaurant."
+    "plot": "A TV reporter complains to God and is given the job for a week.",
+    "movie": "Bruce Almighty",
+    "hint": "Morgan Freeman."
   },
   {
-    "plot": "Three guys lose the groom and find a tiger.",
-    "movie": "The Hangover",
-    "hint": "Las Vegas roof."
+    "plot": "A hockey player joins the golf tour to save his grandma's house.",
+    "movie": "Happy Gilmore",
+    "hint": "A fight with Bob Barker."
   },
   {
-    "plot": "High school seniors try to buy alcohol for a party.",
-    "movie": "Superbad",
-    "hint": "McLovin ID."
+    "plot": "A man has to make the same woman fall in love with him every single day.",
+    "movie": "50 First Dates",
+    "hint": "A videotape every morning."
+  },
+  {
+    "plot": "A nurse visits his girlfriend's parents and her dad gives him a lie detector test.",
+    "movie": "Meet the Parents",
+    "hint": "The circle of trust."
+  },
+  {
+    "plot": "A man raised at the North Pole goes to New York to find his dad, who is on the naughty list.",
+    "movie": "Elf",
+    "hint": "Spaghetti with maple syrup."
+  },
+  {
+    "plot": "A fake substitute teacher forms a band with his fourth-grade class.",
+    "movie": "School of Rock",
+    "hint": "Stick it to the man."
+  },
+  {
+    "plot": "A male model can't turn left.",
+    "movie": "Zoolander",
+    "hint": "A center for kids who can't read good."
+  },
+  {
+    "plot": "A San Diego news anchor feels very threatened by a woman.",
+    "movie": "Anchorman: The Legend of Ron Burgundy",
+    "hint": "Stay classy."
+  },
+  {
+    "plot": "A race car driver really likes baby Jesus.",
+    "movie": "Talladega Nights: The Ballad of Ricky Bobby",
+    "hint": "Shake and Bake."
   },
   {
     "plot": "Two 40-year-olds live with their parents and build bunk beds.",
@@ -825,663 +1080,568 @@
     "hint": "Catalina Wine Mixer."
   },
   {
-    "plot": "A race car driver really likes Baby Jesus.",
-    "movie": "Talladega Nights: The Ballad of Ricky Bobby",
-    "hint": "Shake and Bake."
+    "plot": "Two high school seniors try to buy alcohol for a party.",
+    "movie": "Superbad",
+    "hint": "McLovin."
   },
   {
-    "plot": "A news team gets into a street fight with other news teams.",
-    "movie": "Anchorman: The Legend of Ron Burgundy",
-    "hint": "Stay Classy, San Diego."
+    "plot": "Three guys lose the groom in Las Vegas and find a tiger and a baby instead.",
+    "movie": "The Hangover",
+    "hint": "Mike Tyson."
   },
   {
-    "plot": "A grown man thinks he is an elf.",
-    "movie": "Elf",
-    "hint": "Cotton headed ninny muggins."
+    "plot": "A maid of honor is outplanned by a richer woman.",
+    "movie": "Bridesmaids",
+    "hint": "Wilson Phillips."
   },
   {
-    "plot": "A fake teacher forms a band with fourth graders.",
-    "movie": "School of Rock",
-    "hint": "Stick it to the man."
-  },
-  {
-    "plot": "A male model can't turn left.",
-    "movie": "Zoolander",
-    "hint": "A school for ants."
-  },
-  {
-    "plot": "Actors think they are making a movie but are actually in a war.",
+    "plot": "Actors think they are making a war movie but are actually in a war.",
     "movie": "Tropic Thunder",
-    "hint": "Never go full [redacted]."
+    "hint": "Les Grossman."
   },
   {
-    "plot": "A foreign reporter learns about America in a swimsuit.",
-    "movie": "Borat",
-    "hint": "Kazakhstan."
+    "plot": "Three guys hate a printer so much they commit a felony.",
+    "movie": "Office Space",
+    "hint": "TPS reports."
   },
   {
-    "plot": "Knights look for a cup and fight a rabbit.",
-    "movie": "Monty Python and the Holy Grail",
-    "hint": "Knights who say Ni."
+    "plot": "A teenager in Idaho helps his friend win a school election with a dance routine.",
+    "movie": "Napoleon Dynamite",
+    "hint": "Vote for Pedro."
   },
   {
-    "plot": "The pilots get sick and the autopilot is a blow-up doll.",
-    "movie": "Airplane!",
-    "hint": "Drinking problem."
+    "plot": "A police officer is transferred to a village where the crime rate is suspiciously low.",
+    "movie": "Hot Fuzz",
+    "hint": "The greater good."
   },
   {
-    "plot": "Exterminators start a business to catch ghosts.",
-    "movie": "Ghostbusters",
-    "hint": "Stay Puft Marshmallow Man."
+    "plot": "A man doesn't notice the zombie apocalypse until there's one in his garden.",
+    "movie": "Shaun of the Dead",
+    "hint": "The Winchester."
   },
   {
-    "plot": "A grandpa reads a book to a sick kid.",
-    "movie": "The Princess Bride",
-    "hint": "Rodents of Unusual Size."
+    "plot": "A hotel concierge is framed for murder over a painting.",
+    "movie": "The Grand Budapest Hotel",
+    "hint": "Mendl's pastries."
   },
   {
-    "plot": "A kid reads a book and his horse dies in a swamp.",
-    "movie": "The NeverEnding Story",
-    "hint": "The Nothing."
+    "plot": "A woman tries to do her taxes and ends up fighting across the multiverse.",
+    "movie": "Everything Everywhere All at Once",
+    "hint": "Hot dog fingers."
   },
   {
-    "plot": "A girl gives her brother to a goblin king in tight pants.",
-    "movie": "Labyrinth",
-    "hint": "The Bog of Eternal Stench."
+    "plot": "A plastic doll has an existential crisis and leaves her dream house.",
+    "movie": "Barbie",
+    "hint": "Mojo Dojo Casa House."
   },
   {
-    "plot": "Don't feed the pets after midnight.",
-    "movie": "Gremlins",
-    "hint": "Mogwai."
+    "plot": "A young chocolatier takes on a chocolate cartel that has bribed the police and a priest.",
+    "movie": "Wonka",
+    "hint": "Hugh Grant as an Oompa Loompa."
   },
   {
-    "plot": "A cat survives a spaceship massacre.",
-    "movie": "Alien",
-    "hint": "Chestburster."
+    "plot": "A security guard's first night shift goes badly when the exhibits wake up.",
+    "movie": "Night at the Museum",
+    "hint": "Dum-dum, give me gum-gum."
   },
   {
-    "plot": "An alien hunts Arnold Schwarzenegger in the jungle.",
-    "movie": "Predator",
-    "hint": "Mud camouflage."
+    "plot": "A board game releases a jungle into a family home.",
+    "movie": "Jumanji",
+    "hint": "Rhinos through the living room."
   },
   {
-    "plot": "A robot learns to say 'Hasta la vista'.",
-    "movie": "Terminator 2: Judgment Day",
-    "hint": "Thumbs up in molten steel."
+    "plot": "A man slowly realizes his whole life is a TV show and his wife keeps advertising cocoa.",
+    "movie": "The Truman Show",
+    "hint": "Good afternoon, good evening, and good night."
   },
   {
-    "plot": "A dead cop becomes a robot.",
-    "movie": "RoboCop",
-    "hint": "Detroit police."
+    "plot": "An elderly woman throws a priceless jewel into the ocean after telling a story for three hours.",
+    "movie": "Titanic",
+    "hint": "Draw me like one of your French girls."
   },
   {
-    "plot": "A cab driver saves the universe with a redhead.",
-    "movie": "The Fifth Element",
-    "hint": "Leeloo."
+    "plot": "An old man keeps reading a woman a story she keeps forgetting.",
+    "movie": "The Notebook",
+    "hint": "If you're a bird, I'm a bird."
   },
   {
-    "plot": "Immigration officers wear suits and use neuralyzers.",
-    "movie": "Men in Black",
-    "hint": "Galaxy on Orion's belt."
+    "plot": "A jazz pianist and an actress break up to be successful.",
+    "movie": "La La Land",
+    "hint": "City of Stars."
   },
   {
-    "plot": "Aliens blow up the White House.",
-    "movie": "Independence Day",
-    "hint": "July 4th."
+    "plot": "A teenage girl moves to a rainy town and falls for a 104-year-old classmate.",
+    "movie": "Twilight",
+    "hint": "Hold on tight, spider monkey."
   },
   {
-    "plot": "Oil drillers go to space to blow up a rock.",
-    "movie": "Armageddon",
-    "hint": "Animal crackers on stomach."
+    "plot": "A zombie eats a guy's brain and falls in love with his girlfriend.",
+    "movie": "Warm Bodies",
+    "hint": "He is called R."
   },
   {
-    "plot": "A space mission fails but everyone gets home safe.",
-    "movie": "Apollo 13",
-    "hint": "CO2 scrubbers."
+    "plot": "A businessman hires a woman for a week and takes her shopping.",
+    "movie": "Pretty Woman",
+    "hint": "Big mistake. Huge."
   },
   {
-    "plot": "A squad looks for one guy in France.",
-    "movie": "Saving Private Ryan",
-    "hint": "Omaha Beach opening scene."
+    "plot": "A bookshop owner spills orange juice on a movie star.",
+    "movie": "Notting Hill",
+    "hint": "Just a girl, standing in front of a boy."
   },
   {
-    "plot": "A Scottish guy yells about freedom while wearing a skirt.",
-    "movie": "Braveheart",
-    "hint": "William Wallace."
+    "plot": "Several Londoners fall in love at Christmas, including the Prime Minister.",
+    "movie": "Love Actually",
+    "hint": "Cue cards."
   },
   {
-    "plot": "A general becomes a slave and kills an emperor.",
-    "movie": "Gladiator",
-    "hint": "Maximus Decimus Meridius."
+    "plot": "A woman in her thirties counts every cigarette and calorie and can't choose between two men.",
+    "movie": "Bridget Jones's Diary",
+    "hint": "Just as you are."
   },
   {
-    "plot": "Brad Pitt fights a war over a girl.",
-    "movie": "Troy",
-    "hint": "Achilles heel."
+    "plot": "A girl on a family holiday learns to dance in the staff quarters.",
+    "movie": "Dirty Dancing",
+    "hint": "Nobody puts Baby in a corner."
   },
   {
-    "plot": "300 guys with abs fight an army.",
-    "movie": "300",
-    "hint": "Battle of Thermopylae."
+    "plot": "A woman changes her entire personality and starts smoking to impress a boy.",
+    "movie": "Grease",
+    "hint": "Rydell High."
   },
   {
-    "plot": "A girl pukes pea soup on a priest.",
-    "movie": "The Exorcist",
-    "hint": "Head spin."
+    "plot": "A bride invites three men to her wedding to find out which one is her dad.",
+    "movie": "Mamma Mia!",
+    "hint": "ABBA."
   },
   {
-    "plot": "Horror movie buffs get killed by a guy in a ghost mask.",
-    "movie": "Scream",
-    "hint": "Drew Barrymore makes popcorn."
+    "plot": "A woman marries a vegetarian and her extended family takes it personally.",
+    "movie": "My Big Fat Greek Wedding",
+    "hint": "Windex fixes everything."
   },
   {
-    "plot": "Camp counselors die because they weren't paying attention.",
-    "movie": "Friday the 13th",
-    "hint": "Crystal Lake."
+    "plot": "A woman meets her boyfriend's family and finds out he's been underselling himself.",
+    "movie": "Crazy Rich Asians",
+    "hint": "A game of mahjong."
   },
   {
-    "plot": "A guy wants to play a game in a bathroom.",
-    "movie": "Saw",
-    "hint": "Reverse bear trap."
+    "plot": "A journalism graduate works for a woman who refuses to learn her name.",
+    "movie": "The Devil Wears Prada",
+    "hint": "Cerulean."
   },
   {
-    "plot": "You watch a tape and die in seven days.",
-    "movie": "The Ring",
-    "hint": "A well."
+    "plot": "A teenager in San Francisco finds out she's next in line to the throne of a tiny European country.",
+    "movie": "The Princess Diaries",
+    "hint": "Genovia."
   },
   {
-    "plot": "A mom is dead in the basement.",
-    "movie": "Psycho",
-    "hint": "Bates Motel."
+    "plot": "A homeschooled girl joins a clique to destroy it and ends up running it.",
+    "movie": "Mean Girls",
+    "hint": "On Wednesdays we wear pink."
   },
   {
-    "plot": "A skeleton hijacks Christmas.",
-    "movie": "The Nightmare Before Christmas",
-    "hint": "Halloween Town."
+    "plot": "A woman gets into Harvard Law to win back her ex-boyfriend.",
+    "movie": "Legally Blonde",
+    "hint": "Bend and snap."
   },
   {
-    "plot": "A woman wants a coat made of puppies.",
-    "movie": "101 Dalmatians",
-    "hint": "Cruella De Vil."
+    "plot": "A rich girl gives a new student a makeover and ends up dating her ex-stepbrother.",
+    "movie": "Clueless",
+    "hint": "As if!"
   },
   {
-    "plot": "A girl loses her voice to get legs.",
-    "movie": "The Little Mermaid",
-    "hint": "Ursula the sea witch."
+    "plot": "A guy is paid to date a girl so her younger sister can go out.",
+    "movie": "10 Things I Hate About You",
+    "hint": "A song on the bleachers."
   },
   {
-    "plot": "A guy goes to prison for murder but is actually innocent, maybe.",
-    "movie": "The Green Mile",
-    "hint": "Electric chair called Old Sparky."
+    "plot": "A girl dresses as her twin brother to play soccer.",
+    "movie": "She's the Man",
+    "hint": "Illyria."
   },
   {
-    "plot": "A man plays chess with death.",
-    "movie": "The Seventh Seal",
-    "hint": "Black and white beach scene."
+    "plot": "A girl lies about her love life and becomes the most talked-about student in school.",
+    "movie": "Easy A",
+    "hint": "Pocketful of Sunshine."
   },
   {
-    "plot": "A babysitter fights for her life on Halloween.",
-    "movie": "Halloween",
-    "hint": "Michael Myers."
+    "plot": "A college freshman reluctantly joins a group that sings without instruments.",
+    "movie": "Pitch Perfect",
+    "hint": "Cups."
   },
   {
-    "plot": "A man dreams of killing teenagers in their sleep.",
-    "movie": "A Nightmare on Elm Street",
-    "hint": "Freddy Krueger."
+    "plot": "Three girls named Heather and one named Veronica play croquet.",
+    "movie": "Heathers",
+    "hint": "Big Fun."
   },
   {
-    "plot": "A guy cuts off his arm to escape a rock.",
-    "movie": "127 Hours",
-    "hint": "Blue John Canyon."
+    "plot": "A sixteen-year-old gets pregnant and is very sarcastic about it.",
+    "movie": "Juno",
+    "hint": "Orange Tic Tacs."
   },
   {
-    "plot": "A girl falls down a rabbit hole.",
-    "movie": "Alice in Wonderland",
-    "hint": "Cheshire Cat."
+    "plot": "A Sacramento teenager throws herself out of a moving car to end an argument.",
+    "movie": "Lady Bird",
+    "hint": "She dyes her hair pink."
   },
   {
-    "plot": "A boy flies with fairy dust.",
-    "movie": "Peter Pan",
-    "hint": "Neverland."
+    "plot": "Two high school seniors realize they studied for four years and forgot to party.",
+    "movie": "Booksmart",
+    "hint": "Gigi."
   },
   {
-    "plot": "A circus elephant flies with his ears.",
-    "movie": "Dumbo",
-    "hint": "A magic feather."
+    "plot": "Twins meet at summer camp and swap lives.",
+    "movie": "The Parent Trap",
+    "hint": "Camp Walden."
   },
   {
-    "plot": "A deer's mom dies in the forest.",
-    "movie": "Bambi",
-    "hint": "Thumper."
+    "plot": "A teenager moves to a town where dancing is illegal and quotes the Bible until it isn't.",
+    "movie": "Footloose",
+    "hint": "Kevin Bacon."
   },
   {
-    "plot": "Two dogs eat spaghetti.",
-    "movie": "Lady and the Tramp",
-    "hint": "Bella Notte."
+    "plot": "A teenager is tricked into doing an old man's chores.",
+    "movie": "The Karate Kid",
+    "hint": "Wax on, wax off."
   },
   {
-    "plot": "A man raised by apes meets a woman.",
-    "movie": "Tarzan",
-    "hint": "Jane Porter."
+    "plot": "A college graduate has an affair with his parents' friend and then crashes a wedding.",
+    "movie": "The Graduate",
+    "hint": "Mrs. Robinson."
   },
   {
-    "plot": "A princess has magic hair that glows.",
-    "movie": "Tangled",
-    "hint": "A frying pan as a weapon."
+    "plot": "A man accidentally turns up at most of modern American history.",
+    "movie": "Forrest Gump",
+    "hint": "Life is like a box of chocolates."
   },
   {
-    "plot": "A girl kisses a frog and turns into one.",
-    "movie": "The Princess and the Frog",
-    "hint": "Doctor Facilier."
+    "plot": "A FedEx employee delivers a package very late.",
+    "movie": "Cast Away",
+    "hint": "A volleyball with a face."
   },
   {
-    "plot": "An alien crashes in Hawaii and learns to surf.",
-    "movie": "Lilo & Stitch",
-    "hint": "Elvis Presley music."
-  },
-  {
-    "plot": "An emperor turns into a llama.",
-    "movie": "The Emperor's New Groove",
-    "hint": "Wrong lever!"
-  },
-  {
-    "plot": "A demigod goes zero to hero.",
-    "movie": "Hercules",
-    "hint": "Pegasus."
-  },
-  {
-    "plot": "A fox steals from the rich to give to the poor.",
-    "movie": "Robin Hood",
-    "hint": "The Sheriff of Nottingham is a wolf."
-  },
-  {
-    "plot": "A dog thinks he has superpowers but is just an actor.",
-    "movie": "Bolt",
-    "hint": "A hamster in a ball."
-  },
-  {
-    "plot": "A chicken thinks the sky is falling.",
-    "movie": "Chicken Little",
-    "hint": "Alien invasion."
-  },
-  {
-    "plot": "Ants fight grasshoppers for food.",
-    "movie": "A Bug's Life",
-    "hint": "Flik the inventor."
-  },
-  {
-    "plot": "A robot nurse helps a boy fight crime.",
-    "movie": "Big Hero 6",
-    "hint": "San Fransokyo."
-  },
-  {
-    "plot": "A girl turns into a bear to bond with her mom.",
-    "movie": "Brave",
-    "hint": "Archery contest."
-  },
-  {
-    "plot": "A guy gets stuck in an airport terminal.",
+    "plot": "A man spends months living in an airport.",
     "movie": "The Terminal",
     "hint": "Krakozhia."
   },
   {
-    "plot": "A man ages backwards.",
-    "movie": "The Curious Case of Benjamin Button",
-    "hint": "Hurricane Katrina."
+    "plot": "A janitor is really good at math.",
+    "movie": "Good Will Hunting",
+    "hint": "How do you like them apples?"
   },
   {
-    "plot": "A tiger and a boy are on a boat.",
-    "movie": "Life of Pi",
-    "hint": "Richard Parker."
-  },
-  {
-    "plot": "A king stammers while giving a speech.",
-    "movie": "The King's Speech",
-    "hint": "King George VI."
-  },
-  {
-    "plot": "A game show contestant is accused of cheating.",
-    "movie": "Slumdog Millionaire",
-    "hint": "Who Wants to Be a Millionaire?"
-  },
-  {
-    "plot": "A bomb squad tech doesn't want to go home.",
-    "movie": "The Hurt Locker",
-    "hint": "Baghdad."
-  },
-  {
-    "plot": "An artist can't talk in a silent movie.",
-    "movie": "The Artist",
-    "hint": "A dog named Uggie."
-  },
-  {
-    "plot": "A fake movie is made to save hostages in Iran.",
-    "movie": "Argo",
-    "hint": "CIA exfiltration."
-  },
-  {
-    "plot": "A man is enslaved for twelve years.",
-    "movie": "12 Years a Slave",
-    "hint": "Solomon Northup."
-  },
-  {
-    "plot": "An actor tries to do a play on Broadway.",
-    "movie": "Birdman",
-    "hint": "A superhero voice in his head."
-  },
-  {
-    "plot": "Journalists investigate the church.",
-    "movie": "Spotlight",
-    "hint": "Boston Globe."
-  },
-  {
-    "plot": "A black man grows up in Miami.",
-    "movie": "Moonlight",
-    "hint": "Blue lights."
-  },
-  {
-    "plot": "A pianist drives around the south with a bouncer.",
-    "movie": "Green Book",
-    "hint": "Don Shirley."
-  },
-  {
-    "plot": "People live in a van.",
-    "movie": "Nomadland",
-    "hint": "Amazon warehouse work."
-  },
-  {
-    "plot": "A deaf family has a hearing daughter who likes to sing.",
-    "movie": "CODA",
-    "hint": "Fishing business."
-  },
-  {
-    "plot": "A conductor abuses her power.",
-    "movie": "Tár",
-    "hint": "Berlin Philharmonic."
-  },
-  {
-    "plot": "Two friends fall out on an Irish island.",
-    "movie": "The Banshees of Inisherin",
-    "hint": "Fingers cut off."
-  },
-  {
-    "plot": "A man gets stuck on a boat with rich people puking.",
-    "movie": "Triangle of Sadness",
-    "hint": "Models Carl and Yaya."
-  },
-  {
-    "plot": "A family deals with a teenage son who does drugs.",
-    "movie": "Beautiful Boy",
-    "hint": "Methamphetamine addiction."
-  },
-  {
-    "plot": "A girl gets pregnant and gives the baby to a rich couple.",
-    "movie": "Juno",
-    "hint": "Orange tic tacs."
-  },
-  {
-    "plot": "A girl lies about losing her virginity to get popular.",
-    "movie": "Easy A",
-    "hint": "Scarlet Letter."
-  },
-  {
-    "plot": "Two high school girls study hard and then party.",
-    "movie": "Booksmart",
-    "hint": "Gigi the rich girl."
-  },
-  {
-    "plot": "A girl jumps out of a moving car in Sacramento.",
-    "movie": "Lady Bird",
-    "hint": "Pink hair."
-  },
-  {
-    "plot": "Three girls kill their friend with a candy.",
-    "movie": "Jawbreaker",
-    "hint": "Birthday kidnapping gone wrong."
-  },
-  {
-    "plot": "Four girls with the same name kill people.",
-    "movie": "Heathers",
-    "hint": "Croquet."
-  },
-  {
-    "plot": "A nerd helps a jock vote for a president.",
-    "movie": "Napoleon Dynamite",
-    "hint": "Tater tots."
-  },
-  {
-    "plot": "A girl makes a dress for prom.",
-    "movie": "Pretty in Pink",
-    "hint": "Duckie."
-  },
-  {
-    "plot": "A girl's family forgets her 16th birthday.",
-    "movie": "Sixteen Candles",
-    "hint": "Jake Ryan."
-  },
-  {
-    "plot": "Guys try to lose their virginity before college.",
-    "movie": "American Pie",
-    "hint": "Band camp."
-  },
-  {
-    "plot": "Three dads discover they have a daughter.",
-    "movie": "Mamma Mia!",
-    "hint": "Greek island."
-  },
-  {
-    "plot": "A hacker helps a journalist solve a cold case.",
-    "movie": "The Girl with the Dragon Tattoo",
-    "hint": "Vanger family."
-  },
-  {
-    "plot": "A cartoonist hunts a killer in San Francisco.",
-    "movie": "Zodiac",
-    "hint": "Cipher letters."
-  },
-  {
-    "plot": "A man with short term memory loss looks for his wife's killer.",
-    "movie": "Memento",
-    "hint": "Polaroid photos."
-  },
-  {
-    "plot": "Two magicians rival each other and clone themselves.",
-    "movie": "The Prestige",
-    "hint": "Tesla coil."
-  },
-  {
-    "plot": "A plumber saves a princess from a turtle.",
-    "movie": "The Super Mario Bros. Movie",
-    "hint": "Rainbow Road."
-  },
-  {
-    "plot": "A lawyer defends a black man in the south.",
-    "movie": "To Kill a Mockingbird",
-    "hint": "Atticus Finch."
-  },
-  {
-    "plot": "A kid sees dead people.",
-    "movie": "The Sixth Sense",
-    "hint": "Red door knob."
-  },
-  {
-    "plot": "A man's life is a reality show.",
-    "movie": "The Truman Show",
-    "hint": "Dome over the city."
-  },
-  {
-    "plot": "A teacher inspires boys to read poetry.",
+    "plot": "A teacher makes his students stand on their desks.",
     "movie": "Dead Poets Society",
     "hint": "O Captain! My Captain!"
   },
   {
-    "plot": "A mafia boss dies in a garden.",
-    "movie": "The Godfather",
-    "hint": "Leave the gun, take the cannoli."
+    "plot": "A student builds a website to rate classmates and ends up being sued by everyone he knows.",
+    "movie": "The Social Network",
+    "hint": "Winklevoss twins."
   },
   {
-    "plot": "A man becomes a new man in the 1920s.",
-    "movie": "The Great Gatsby",
-    "hint": "Green light across the water."
+    "plot": "A stockbroker sells penny stocks and takes a lot of Quaaludes.",
+    "movie": "The Wolf of Wall Street",
+    "hint": "Sell me this pen."
   },
   {
-    "plot": "A tornado takes a girl to a colorful land.",
-    "movie": "The Wizard of Oz",
-    "hint": "Yellow Brick Road."
+    "plot": "A jazz drummer is yelled at about tempo until his hands bleed.",
+    "movie": "Whiplash",
+    "hint": "Not quite my tempo."
   },
   {
-    "plot": "A southern bell loses her plantation.",
-    "movie": "Gone with the Wind",
-    "hint": "Frankly, my dear, I don't give a damn."
+    "plot": "A king hires a speech therapist from Australia.",
+    "movie": "The King's Speech",
+    "hint": "A wartime radio broadcast."
   },
   {
-    "plot": "A man in a wheelchair spies on his neighbors.",
-    "movie": "Rear Window",
-    "hint": "Alfred Hitchcock."
+    "plot": "A tea boy from Mumbai is accused of cheating on a game show.",
+    "movie": "Slumdog Millionaire",
+    "hint": "Is that your final answer?"
   },
   {
-    "plot": "A crop duster chases a man.",
-    "movie": "North by Northwest",
-    "hint": "Mount Rushmore chase."
+    "plot": "A boy spends 227 days on a lifeboat with a tiger.",
+    "movie": "Life of Pi",
+    "hint": "A carnivorous island."
   },
   {
-    "plot": "A bird attacks a town.",
-    "movie": "The Birds",
-    "hint": "Bodega Bay."
+    "plot": "A man is born old and gets younger.",
+    "movie": "The Curious Case of Benjamin Button",
+    "hint": "Hurricane Katrina."
   },
   {
-    "plot": "A man falls in love with a woman who looks like his dead wife.",
-    "movie": "Vertigo",
-    "hint": "Bell tower."
+    "plot": "A washed-up actor tries to do a play on Broadway and runs through Times Square in his underwear.",
+    "movie": "Birdman",
+    "hint": "A superhero voice in his head."
   },
   {
-    "plot": "Archaeologist hates snakes.",
-    "movie": "Raiders of the Lost Ark",
-    "hint": "Ark of the Covenant."
+    "plot": "A team of journalists spend a year going through church records.",
+    "movie": "Spotlight",
+    "hint": "The Boston Globe."
   },
   {
-    "plot": "Archaeologist drinks from a cup and saves his dad.",
-    "movie": "Indiana Jones and the Last Crusade",
-    "hint": "He chose... poorly."
+    "plot": "A bomb disposal expert is much happier at work than in the cereal aisle.",
+    "movie": "The Hurt Locker",
+    "hint": "Baghdad."
   },
   {
-    "plot": "A kid gets left home alone in a mansion.",
-    "movie": "Richie Rich",
-    "hint": "Macaulay Culkin."
+    "plot": "A man on an Irish island stops being friends with his friend for no reason.",
+    "movie": "The Banshees of Inisherin",
+    "hint": "A miniature donkey."
   },
   {
-    "plot": "A dog plays basketball.",
-    "movie": "Air Bud",
-    "hint": "Golden Retriever."
+    "plot": "A mother rents three advertising spaces to complain about the police.",
+    "movie": "Three Billboards Outside Ebbing, Missouri",
+    "hint": "Frances McDormand."
   },
   {
-    "plot": "A whale jumps over a rock wall.",
-    "movie": "Free Willy",
-    "hint": "Michael Jackson song."
+    "plot": "A cleaner at a government lab falls in love with a fish man.",
+    "movie": "The Shape of Water",
+    "hint": "Baltimore, 1962."
   },
   {
-    "plot": "A pig herds sheep.",
-    "movie": "Babe",
-    "hint": "That'll do, pig."
+    "plot": "A ten-year-old's imaginary friend is a very bad role model.",
+    "movie": "Jojo Rabbit",
+    "hint": "Taika Waititi plays the imaginary friend."
   },
   {
-    "plot": "A team of bobsledders come from a warm country.",
-    "movie": "Cool Runnings",
-    "hint": "Jamaica."
+    "plot": "Two soldiers walk across a field to deliver a letter.",
+    "movie": "1917",
+    "hint": "One continuous shot."
   },
   {
-    "plot": "Kids play baseball in a lot.",
-    "movie": "The Sandlot",
-    "hint": "You're killing me, Smalls."
+    "plot": "Lots of people wait on a beach for some boats.",
+    "movie": "Dunkirk",
+    "hint": "Spitfires."
   },
   {
-    "plot": "Ducks play hockey.",
-    "movie": "The Mighty Ducks",
-    "hint": "Flying V formation."
+    "plot": "Eight soldiers risk their lives to send one man home, and he doesn't want to go.",
+    "movie": "Saving Private Ryan",
+    "hint": "Omaha Beach."
   },
   {
-    "plot": "A rabbit plays basketball with aliens.",
-    "movie": "Space Jam",
-    "hint": "Michael Jordan."
-  },
-  {
-    "plot": "A nanny uses magic to clean a room.",
-    "movie": "Mary Poppins",
-    "hint": "Spoonful of sugar."
-  },
-  {
-    "plot": "A car flies.",
-    "movie": "Chitty Chitty Bang Bang",
-    "hint": "Child Catcher."
-  },
-  {
-    "plot": "A girl disguises herself as a boy to learn Talmud.",
-    "movie": "Yentl",
-    "hint": "Barbra Streisand."
-  },
-  {
-    "plot": "A boxer fights in the ring and screams for his wife.",
-    "movie": "Raging Bull",
-    "hint": "Robert De Niro."
-  },
-  {
-    "plot": "A taxi driver wants to clean up the streets.",
-    "movie": "Taxi Driver",
-    "hint": "You talkin' to me?"
-  },
-  {
-    "plot": "Vietnam vets play Russian Roulette.",
-    "movie": "The Deer Hunter",
-    "hint": "Christopher Walken."
-  },
-  {
-    "plot": "A gangster becomes a snitch.",
-    "movie": "Goodfellas",
-    "hint": "Funny how?"
-  },
-  {
-    "plot": "A cop infiltrates the Irish mob.",
-    "movie": "The Departed",
-    "hint": "Dropkick Murphys song."
-  },
-  {
-    "plot": "A man hunts his Vietnam commander.",
+    "plot": "A soldier takes a very long boat ride to find a man who went too far.",
     "movie": "Apocalypse Now",
-    "hint": "The horror, the horror."
+    "hint": "I love the smell of napalm in the morning."
   },
   {
-    "plot": "A platoon fights in Vietnam.",
-    "movie": "Platoon",
-    "hint": "Willem Dafoe reaching for the sky."
+    "plot": "A Scottish man in face paint yells about freedom.",
+    "movie": "Braveheart",
+    "hint": "They may take our lives, but they'll never take our freedom!"
   },
   {
-    "plot": "Soldiers joke around in the Korean War.",
-    "movie": "M*A*S*H",
-    "hint": "Mobile Army Surgical Hospital."
+    "plot": "A general becomes a slave and gets his revenge on an emperor in front of a crowd.",
+    "movie": "Gladiator",
+    "hint": "Are you not entertained?"
   },
   {
-    "plot": "A news network gets worried about ratings.",
-    "movie": "Network",
-    "hint": "I'm as mad as hell."
+    "plot": "A war breaks out over a woman and the best fighter is let down by his ankle.",
+    "movie": "Troy",
+    "hint": "A wooden horse."
   },
   {
-    "plot": "A president resigns.",
-    "movie": "All the President's Men",
-    "hint": "Watergate."
+    "plot": "Three hundred men with excellent abs refuse to retreat.",
+    "movie": "300",
+    "hint": "This is Sparta!"
   },
   {
-    "plot": "A miner's son likes ballet.",
+    "plot": "A man builds a really big bomb and then feels bad about it.",
+    "movie": "Oppenheimer",
+    "hint": "Trinity test."
+  },
+  {
+    "plot": "A manager takes most of the money from a famous singer.",
+    "movie": "Elvis",
+    "hint": "Colonel Tom Parker."
+  },
+  {
+    "plot": "A band from London gets too big and then plays Live Aid.",
+    "movie": "Bohemian Rhapsody",
+    "hint": "Galileo."
+  },
+  {
+    "plot": "A famous musician discovers a singer at a drag bar.",
+    "movie": "A Star Is Born",
+    "hint": "Shallow."
+  },
+  {
+    "plot": "A man starts a circus and sings about it.",
+    "movie": "The Greatest Showman",
+    "hint": "This Is Me."
+  },
+  {
+    "plot": "A loan shark's debt collector gets a shot at the world title and loses.",
+    "movie": "Rocky",
+    "hint": "Yo, Adrian!"
+  },
+  {
+    "plot": "A man tries to get his inheritance and ends up winning at blackjack with his brother.",
+    "movie": "Rain Man",
+    "hint": "Definitely, definitely."
+  },
+  {
+    "plot": "A man fakes insanity to get out of prison work and quickly regrets it.",
+    "movie": "One Flew Over the Cuckoo's Nest",
+    "hint": "Nurse Ratched."
+  },
+  {
+    "plot": "A couple adopts the worst dog in the world.",
+    "movie": "Marley & Me",
+    "hint": "A Florida newspaper column."
+  },
+  {
+    "plot": "A boy in a mining town skips boxing lessons to take ballet.",
     "movie": "Billy Elliot",
-    "hint": "Tap dancing."
+    "hint": "The 1984 miners' strike."
   },
   {
-    "plot": "A girl wants to play soccer but her parents say no.",
+    "plot": "A girl from Hounslow secretly plays football behind her parents' backs.",
     "movie": "Bend It Like Beckham",
     "hint": "Keira Knightley."
   },
   {
-    "plot": "A greek wedding is very loud.",
-    "movie": "My Big Fat Greek Wedding",
-    "hint": "Windex fixes everything."
+    "plot": "Unemployed steelworkers in Sheffield start a strip act.",
+    "movie": "The Full Monty",
+    "hint": "You Can Leave Your Hat On."
+  },
+  {
+    "plot": "Some friends in Edinburgh choose not to choose life.",
+    "movie": "Trainspotting",
+    "hint": "The worst toilet in Scotland."
+  },
+  {
+    "plot": "A shy waitress in Paris secretly meddles in her neighbors' lives.",
+    "movie": "Amélie",
+    "hint": "A garden gnome travels the world."
+  },
+  {
+    "plot": "A candy maker invites five children to his factory and only one leaves in one piece.",
+    "movie": "Willy Wonka & the Chocolate Factory",
+    "hint": "Oompa Loompas."
+  },
+  {
+    "plot": "An inventor fixes up an old race car and it turns out it can fly.",
+    "movie": "Chitty Chitty Bang Bang",
+    "hint": "The Child Catcher."
+  },
+  {
+    "plot": "A girl from Kansas kills a woman with her house and then takes her shoes.",
+    "movie": "The Wizard of Oz",
+    "hint": "There's no place like home."
+  },
+  {
+    "plot": "A trainee nun who keeps getting in trouble becomes a nanny to seven children.",
+    "movie": "The Sound of Music",
+    "hint": "Clothes made out of curtains."
+  },
+  {
+    "plot": "A girl with telekinesis takes on a principal who throws children by their pigtails.",
+    "movie": "Matilda",
+    "hint": "A giant chocolate cake."
+  },
+  {
+    "plot": "A boy skips school to read a book in an attic, and a horse dies in a swamp.",
+    "movie": "The NeverEnding Story",
+    "hint": "Falkor."
+  },
+  {
+    "plot": "A girl gives her baby brother to a goblin king in tight trousers.",
+    "movie": "Labyrinth",
+    "hint": "The Bog of Eternal Stench."
+  },
+  {
+    "plot": "A military robot is struck by lightning and decides it doesn't want to be taken apart.",
+    "movie": "Short Circuit",
+    "hint": "Number 5 is alive!"
+  },
+  {
+    "plot": "A pig thinks he's a sheepdog.",
+    "movie": "Babe",
+    "hint": "That'll do, pig."
+  },
+  {
+    "plot": "A troubled kid helps a whale escape from an amusement park.",
+    "movie": "Free Willy",
+    "hint": "A jump over the harbor wall."
+  },
+  {
+    "plot": "A golden retriever joins a school basketball team and nobody can find a rule against it.",
+    "movie": "Air Bud",
+    "hint": "Timberwolves."
+  },
+  {
+    "plot": "Sprinters from a tropical island take up a sport that needs snow.",
+    "movie": "Cool Runnings",
+    "hint": "Feel the rhythm, feel the rhyme!"
+  },
+  {
+    "plot": "A new kid loses his stepdad's signed baseball to a dog over a fence.",
+    "movie": "The Sandlot",
+    "hint": "You're killing me, Smalls."
+  },
+  {
+    "plot": "A lawyer is sentenced to community service coaching a children's hockey team.",
+    "movie": "The Mighty Ducks",
+    "hint": "The Flying V."
+  },
+  {
+    "plot": "A retired basketball player is recruited by a rabbit to play against aliens.",
+    "movie": "Space Jam",
+    "hint": "Monstars."
+  },
+  {
+    "plot": "A drunk pirate tries to get his ship back from a crew of skeletons.",
+    "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "hint": "Why is the rum gone?"
+  },
+  {
+    "plot": "A reality TV show where the grand prize is not dying.",
+    "movie": "The Hunger Games",
+    "hint": "District 12."
+  },
+  {
+    "plot": "A green girl and a pink girl are forced to be roommates and fall out over a goat.",
+    "movie": "Wicked",
+    "hint": "Defying Gravity."
+  },
+  {
+    "plot": "A bar owner gives up the love of his life so she can leave with her husband.",
+    "movie": "Casablanca",
+    "hint": "Here's looking at you, kid."
+  },
+  {
+    "plot": "A woman spends four hours wanting the wrong man.",
+    "movie": "Gone with the Wind",
+    "hint": "Frankly, my dear, I don't give a damn."
+  },
+  {
+    "plot": "A film studio panics when audiences finally hear their lead actress talk.",
+    "movie": "Singin' in the Rain",
+    "hint": "An umbrella and a lamppost."
+  },
+  {
+    "plot": "Two musicians dress as women to hide from the mob.",
+    "movie": "Some Like It Hot",
+    "hint": "Nobody's perfect."
+  },
+  {
+    "plot": "A lawyer's kids spend the summer trying to get their reclusive neighbor to come outside.",
+    "movie": "To Kill a Mockingbird",
+    "hint": "Boo Radley."
+  },
+  {
+    "plot": "A man throws enormous parties hoping one specific woman will turn up.",
+    "movie": "The Great Gatsby",
+    "hint": "A green light across the bay."
+  },
+  {
+    "plot": "Two reporters ruin a president's career by following the money.",
+    "movie": "All the President's Men",
+    "hint": "Watergate."
+  },
+  {
+    "plot": "A child psychologist spends the whole movie not noticing something about himself.",
+    "movie": "The Sixth Sense",
+    "hint": "I see dead people."
   }
 ]
